@@ -1,0 +1,16 @@
+# the purpose of a system is what it does
+
+tags
+: [[cybernetics]]
+
+&ldquo;The purpose of a system is what it does&rdquo;, sometimes abbreviated &ldquo;POSIWID&rdquo;, is a phrase coined by [[Stafford Beer]]. For Beer, there was no point in believing what a system said it should do, since a system may say that it does one thing and not live up to that. Therefore when analyzing a system, we can say that its purpose is what it does.
+
+This is an incredibly profound insight.
+
+
+<a id="org7c937b3"></a>
+
+## Backlinks
+
+-   [[the purpose of a system is what it does]]
+-   [[the purpose of a system is what it does]]

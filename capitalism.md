@@ -5,8 +5,6 @@ Capitalism is a mode of production that emerged first in England sometime betwee
 Capitalism is a unique historical formation, having never appeared anywhere in human society before the modern era.
 
 
-<a id="org5c60a39"></a>
-
 ## What makes capitalism unique?
 
 Capitalism is characterized by two unique features: [[the accumulation of capital]], and [[wage labor]].
@@ -14,27 +12,17 @@ Capitalism is characterized by two unique features: [[the accumulation of capita
 In addition, capitalism displays many other unique characteristics which follow from its logic: [[capitalism is totalizing]], the logic of the market is supreme, [[capitalism requires poverty and emiseration to exist]].
 
 
-<a id="orgbffc93d"></a>
-
 ## What is life like under capitalism?
 
-
-<a id="orgaacb4e5"></a>
 
 ## What came before capitalism?
 
 
-<a id="orgad7f7f6"></a>
-
 ## Where did capitalism come from?
 
 
-<a id="org4766d33"></a>
-
 ## What comes after capitalism?
 
-
-<a id="org5f4847a"></a>
 
 ## Backlinks
 
@@ -52,14 +40,18 @@ In addition, capitalism displays many other unique characteristics which follow 
 -   [[Kautsky was right about imperialism in the long term]]
 -   [[annihilation of space by time]]
 -   [[Lenin&rsquo;s theory of imperialism]]
+-   [[business cycle]]
 -   [[Capital controls the social intellect]]
 -   [[the end of history]]
 -   [[tendency for the rate of profit to fall]]
 -   [[Productivity Paradox]]
 -   [[Supply and demand being equal causes no value to be produced.]]
+-   [[Are dialectics useful?]]
 -   [[Capitalism imposes constraints on social behavior]]
+-   [[socialism is more than just state power]]
 -   [[is the transition to communism necessary?]]
 -   [[Capitalism is a relation of production, not a relation of commerce.]]
+-   [[yeoman freedom]]
 -   [[overcapacity led to deindustrialization]]
 -   [[Socialism must be global]]
 -   [[Cosmonaut - Mask Off - Crisis and Struggle in the Pandemic]]
@@ -75,9 +67,11 @@ In addition, capitalism displays many other unique characteristics which follow 
 -   [[Capital Vol. 1]]
 -   [[Capital Vol. 1]]
 -   [[Capital Vol. 1]]
+-   [[Automation and the Future of Work]]
 -   [[Returning to Normal?]]
 -   [[Statue? I hardly know you! | The Antifada]]
 -   [[The Philosophy of Living Experience]]
+-   [[Battle Cry of Freedom]]
 -   [[Capital Vol. 2]]
 -   [[proletariat]]
 -   [[contradiction is eternal]]
@@ -94,6 +88,7 @@ In addition, capitalism displays many other unique characteristics which follow 
 -   [[not all capital is money]]
 -   [[Capital only acquires value in its movement.]]
 -   [[state as a tool of class struggle]]
+-   [[impersonal domination]]
 -   [[racial capitalism]]
 -   [[Can science and technology be separated from capitalism?]]
 -   [[reinvestment and labor market are unique to capitalism]]
@@ -102,4 +97,4 @@ In addition, capitalism displays many other unique characteristics which follow 
 -   [[communism]]
 -   [[capitalism commodified time]]
 -   [[capitalism and debt]]
--   [[Automation and the Future of Work]]
+-   [[Uncomfortable Truths in Software Engineering]]

@@ -1,0 +1,7 @@
+# Nihilist Communism
+
+source
+: 
+
+
+## Notes

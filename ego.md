@@ -1,0 +1,7 @@
+# ego
+
+
+
+## Backlinks
+
+-   [[superego]]

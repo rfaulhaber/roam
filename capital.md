@@ -1,0 +1,37 @@
+# Capital
+
+
+
+## Backlinks
+
+-   [[circulation of capital]]
+-   [[capitalists do not horde their money]]
+-   [[Simple Reproduction]]
+-   [[Turnover time of capital]]
+-   [[the accumulation of capital]]
+-   [[Capitalism develops societal infrastructure to reduce circulation costs]]
+-   [[organic composition of capital]]
+-   [[Machines in Marx&rsquo;s political economy]]
+-   [[Factions of capital]]
+-   [[Fixed capital]]
+-   [[Production time]]
+-   [[Capitalism is a relation of production, not a relation of commerce.]]
+-   [[The Long Twentieth Century]]
+-   [[Deleuze with Guattari | Why Theory]]
+-   [[Capital Vol. 1]]
+-   [[Capital Vol. 1]]
+-   [[Capital Vol. 2]]
+-   [[Capital Vol. 2]]
+-   [[the role of trade unions in the transition to socialism]]
+-   [[Fluid capital]]
+-   [[Example of fixed capital: cooking]]
+-   [[commodity capital]]
+-   [[circuit of capital]]
+-   [[Transportation develops as its own branch of production]]
+-   [[not all capital is money]]
+-   [[C-M-C exchange]]
+-   [[productive capital]]
+-   [[Capital is a process, a unity. It is not a fixed, static thing.]]
+-   [[M-C-M exchange]]
+-   [[wages are determined by the cost of the reproduction of the worker]]
+-   [[money capital]]

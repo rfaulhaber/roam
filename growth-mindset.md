@@ -1,0 +1,7 @@
+# growth mindset
+
+
+
+## Backlinks
+
+-   [[Principles]]

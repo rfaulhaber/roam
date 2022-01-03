@@ -1,0 +1,785 @@
+# Capital Vol. 2
+
+tags
+: [[Marx]] [[political economy]]
+
+source
+: capital_vol_2
+
+type
+: literature
+
+
+## 1. The Circuit of Money Capital
+
+-   As a reminder from Vol. 1: the [[circuit of capital]] is:
+    1.  The capitalist appears on the commodity and labor markets as a buyer, his money transformed into commodities (M-C)
+    2.  Productive consumption by the capitalist of the commodities results in commodities of a greater value than their elements in production
+    3.  The capitalist returns to the market as a seller, commodities transformed into money (C-M)
+
+
+### First Stage. M-C
+
+-   M-C is the conversion of a sum of money into a sum of commodities
+-   \\(C = L + mp\\), where C is capital, L is labor power, and mp is the means of production
+-   We can just as easily say \\(M-C = L + mp\\), so subsequently there are two new portions, M-L and M-mp
+-   Marx says that \\(M-C = L + mp\\) does not express simply a qualitative relationship, but also a ratio between the portions of money spent on labor power and the means of production
+-   This relationship reveals that the means of production must be sufficient to absorb the amount of labor which is to be turned into products
+-   At the end of this process, the money advanced by the capitalist now exists as commodities, which can be used to &ldquo;breed&rdquo; [[surplus-value]]. This is called _productive capital_ (P), and \\(P = L + mp\\)
+-   As money capital, money can perform monetary actions, such as payment
+-   What makes money into capital, and not merely money, is the movement of said money and their relationship in the circuit
+-   M-L is the movement of the transformation of money capital into productive capital, as it&rsquo;s through labor that surplus-value is generated
+-   M-L is characteristic of [[capitalism]]
+-   [[Wages]] are not the value of labor itself, but the value of labor-power for a period of time (also mentioned in vol. 1)
+-   Labor-power is a commodity, like any other
+-   The capitalist must purchase the means of production first, as that is the object of labor
+-   The fact that M-L is possible is only because labor-power exists separately from its means of production.
+-   There&rsquo;s nothing inherent to money that causes capitalism to exist. Rather, it&rsquo;s the result of the production process and the relations that go into that.
+    
+    > The capital relation arises only in the production process because it exists implicitly in the act of circulation, in the basically different economic conditions in which buyer and seller confront one another, in their class relation. It is not the nature of money that gives rise to this relation; it is rather the existence of the relation that can transform a mere function of money into a function of capital.
+    
+    <!--quoteend-->
+    
+    > The purchase and sale of slaves is also in its form a purchase and sale of commodities. Without the existence of slaves, however, money cannot fulfil this function. If there is slavery, then money can be spent on the acquisition of slaves. But money in the hand of the buyer is in no way a sufficient condition for the existence of slavery.
+-   The general formula for the circulation of commodities is C-P-C&rsquo;-M&rsquo;
+
+
+### Second stage. The Function of Productive Capital
+
+-   Being able to participate in the M-C process presupposes that the person participating in it is a commodity producer
+-   From the perspective of the worker (i.e. the M-L relation) the capitalist presents himself as a money capitalist
+-   Once a class of wage-laborers exists and the conditions for capitalist production arise, this form of production will destroy all other non-capitalist forms of commodity production, such as a mode of production where a commodity producer uses their own labor to produce the commodity sold
+-   Production can only occur when workers and means of production are connected
+-   It&rsquo;s in the hands of the capitalist that capital becomes productive, i.e. able to produce commodities
+-   In the production process, labor-power&rsquo;s surplus labor is labor performed for free for capital, and thus becomes surplus-value for the capitalist. The result is not just a commodity, but a commodity that contains surplus-value
+
+
+### Third Stage. C&rsquo;-M&rsquo;
+
+-   Commodities become _commodity capital_ after having valorized the capital value put into them during the production process
+-   In the form of commodity capital, commodities must perform commodity functions, and thus be exchanged for money (C-M)
+-   The circuit of capital ceases while capital is in its commodity form, waiting to be sold in the market
+-   The entire form, thus, is M-C-(L|mp)&#x2026;P&#x2026;(C+c)-(M+m), shortened to M-C&#x2026;P&#x2026;C&rsquo;-M&rsquo; (m is surplus value expressed in money terms, c is surplus value)
+-   In the first stage, the capitalist withdraws commodities from the labor market, and in the third stage he puts them back (he puts in the value M and withdraws the same value C; he puts in C+c, and withdraws the same value M+m)
+-   c-m is the first form of circulation, and is met with its converse, m-c
+
+
+### The Circuit as a Whole
+
+-   During the process, value is realized in money capital and commodity capital independently at each transformation phase. Productive capital represents the capital used in the production process. Finally, industrial capital is the capital of the total circuit
+-   Money, productive, and commodity capital are not their own independent varieties of capital, merely particular forms of industrial capital
+-   Not all industrial activity is productive. The transport industry doesn&rsquo;t _produce_ anything, however it creates value in its role in the production process: by transporting commodities from one place to another
+    
+    > ‘The manufacturer can produce articles first and look for customers afterwards.’ (His product, after it is ejected in finished form from the production process, passes into circulation as a commodity separate from this process.) ‘Production and consumption thus appear as two acts separated in time and space. In the transport industry, however, which does not create new products, but only displaces people and things, these two acts coincide; the services’ (the change of place) ‘are necessarily consumed the moment they are produced. This is why the area within which railways can seek their customers is at most 50 versts’ (53 km.) ‘on either side.’6
+    > 
+    > The result in each case, whether it is people or commodities that are transported, is a change in their spatial location, e.g. that the yarn finds itself in India instead of in England, where it was produced.
+    > 
+    > But what the transport industry sells is the actual change of place itself. The useful effect produced is inseparably connected with the transport process, i.e. the production process specific to the transport industry. People and commodities travel together with the means of transport, and this journeying, the spatial movement of the means of transport, is precisely the production process accomplished by the transport industry. The useful effect can only be consumed during the production process; it does not exist as a thing of use distinct from this process, a thing which functions as an article of commerce and circulates as a commodity only after its production. However the exchange-value of this useful effect is still determined, like that of any other commodity, by the value of the elements of production used up in it (labour-power and means of production), plus the surplus-value created by the surplus labour of the workers occupied in the transport industry. In respect of its consumption, too, this useful effect behaves just like other commodities. If it is consumed individually, then its value vanishes with its consumption; if it is consumed productively, so that it is itself a stage of production of the commodity that finds itself transported, then its value is carried over to the commodity as an addition to it. The formula for the transport industry is thus Image…P…M’ for it is the production process itself, and not a product separable from it, that is paid for and consumed. This therefore has almost exactly the same form as that for the production of precious metals, except that M′ is here the transformed form of the useful effect produced in the course of the production process, and not the natural form of the gold and silver that is produced during this process and ejected from it.
+-   &ldquo;Industrial capital is the only mode of existence of capital in which not only the appropriation of surplus-value or surplus product, but also its creation, is a function of capital.&rdquo;
+-   M-C&#x2026;P&#x2026;C&rsquo;-M&rsquo; is marked by the following features:
+    1.  It appears as the _circuit of money capital_ because industrial capital in its money form serves as the starting point and the point of return. Money is not spent here, only advanced. The production process appears here as only incidental, a &ldquo;necessary evil&rdquo; to make more money.
+    2.  The production process is merely a means of valorization of the value advanced
+    3.  The creation by value of surplus-value is explicitly presented as the money form
+    4.  The circuit of money capital only expresses the process of valorization and accumulation. Consumption is expressed only as productive consumption (M-C-(L|mp))
+-   The capitalist production process is a precondition for the circuit of capital to actualize itself
+
+
+## 2. The Circuit of Productive Capital
+
+-   The general formula of productive capital is \\(P...C'-M'-C...P\\)
+-   This signifies that productive capital is periodically repeated, i.e. reproduction
+-   Marx points out two important aspects of this circuit:
+    1.  M&#x2026;M&rsquo; (production process) is interrupted by production in this form. Money capital serves as the mediation between the first extreme of this process and the second
+    2.  The entire circulation process presents itself in the opposite form from which it is possessed in the circuit of money capital
+
+
+### 1. Simple Reproduction
+
+-   Commodity capital is transformed into money, which is then split into money capital and money (i.e the capitalist takes some money for his own use)
+-   c-m-c shall represent simple commodity circulation
+-   When the commodity capital is realized by way of C&rsquo;-M&rsquo;, the movement of capital value and surplus value becomes divisible
+-   If this division takes place, this process can be articulated in two separate circulations: C-M-C and c-m-c
+-   When commodities are continuous in their physical composition, the value components are isolated ideally
+    -   Marx uses the example of the building trade: a house is built in stages. At no point until the end is it a house, but each stage serves as a security for the future house
+-   In the transition M-C, the commodity in question doesn&rsquo;t have to exist yet: coal can be bought before it is extracted, etc.
+-   If capital is not able to reproduce itself for whatever reason, it is thrown into a crisis
+-   Crisis can happen when the circuit of capital is held up for too long. The valorization of capital is no longer as profitable and the capitalist cannot make a return, and thus the circuit ends
+-   Money capital exists thus as an interruption of the circuit of capital
+
+
+### 2. Accumulation and Reproduction on an Expanded Scale
+
+-   When surplus value cannot act as additional capital (i.e. cannot expand the process) it must be stored up
+-   M&#x2026;M&rsquo; is a circuit that articulates money breeding money, bringing forth surplus-value, whereas P&#x2026;P&rsquo; already starts with produced surplus-value
+-   P&#x2026;P&rsquo; signifies that surplus-value is capitalized
+
+
+### 3. Accumulation of Money
+
+-   As long as &ldquo;latent money capital&rdquo; exists held up in this &ldquo;hoard&rdquo; form, it does not function as money capital
+
+
+### 4. The Reserve Fund
+
+-   If the C&rsquo;-M&rsquo; process is held up, a reserve fund of money can take the place of money capital
+
+
+## 3. The Circuit of Commodity Capital
+
+-   General formula for the circuit of commodity capital is \\(C'-M'-C...P...C'\\)
+-   The circuit of commodity capital necessarily begins with commodity capital with surplus value. This is because commodities by nature have surplus value within them
+-   Commodity capital can begin and end its own circuit without changing value
+
+
+## 4. The Three Figures of the Circuit
+
+-   [[Capital is a process, a unity. It is not a fixed, static thing]]
+    
+    > It we take all three forms together, then all the premises of the process appear as its result, as premises produced by the process itself. Each moment appears as a point of departure, of transit, and of return. The total process presents itself as the unity of the process of production and the process of circulation; the production process is the mediator of the circulation process, and vice versa.
+-   [[Capital]] sounds like a state machine, transitioning from one state to another constantly
+    
+    > In a constantly rotating orbit, every point is simultaneously a starting-point and a point of return. If we interrupt the rotation, then not every starting-point is a point of return. Thus we have seen that not only does every particular circuit (implicitly) presuppose the others, but also that the repetition of the circuit in one form includes the motions which have to take place in the other forms of the circuit. Thus the entire distinction presents itself as merely one of form, a merely subjective distinction that exists only for the observer.
+-   [[Capital]] is not only something in movement, but also is something that comprises class relations
+    
+    > Capital, as self-valorizing value, does not just comprise class relations, a definite social character that depends on the existence of labour as wage-labour. It is a movement, a circulatory process through different stages, which itself in turn includes three different forms of the circulatory process. Hence it can only be grasped as a movement, and not as a static thing.
+-   [[Capital only acquires value in its movement.]]
+    
+    > The movements of capital appear as actions of the individual industrial capitalist in so far as he functions as buyer of commodities and labour, seller of commodities and productive capitalist, and thus mediates the circuit by his own activity. If the social capital value suffers a revolution in value, it can come about that his individual capital succumbs to this and is destroyed, because it cannot meet the conditions of this movement of value. The more acute and frequent these revolutions in value become, the more the movement of the independent value, acting with the force of an elemental natural process, prevails over the foresight and calculation of the individual capitalist, the more the course of normal production is subject to abnormal speculation, and the greater becomes the danger to the existence of the individual capitals. These periodic revolutions in value thus confirm what they ostensibly refute: the independence which value acquires as capital, and which is maintained and intensified through its movement.
+-   [[Capitalism is a relation of production, not a relation of commerce.]]
+    
+    > The producer becomes an industrial capitalist to the same extent that labour becomes wage-labour; hence capitalist production (and thus also commodity production) appears in its full extent only when the direct agricultural producer is also a wage-labourer. In the relation between capitalist and wage-labourer, the money relation, the relation of buyer and seller, becomes a relation inherent in production itself. But this relation rests fundamentally on the social character of production, not on the mode of commerce; the latter rather derives from the former. It is typical of the bourgeois horizon, moreover, where business deals fill the whole of people’s minds, to see the foundation of the mode of production in the mode of commerce corresponding to it, rather than the other way round.
+-   [[Supply and demand being equal causes no value to be produced.]]
+    
+    > The capitalist casts less value into circulation in the form of money than he draws out of it, because he casts in more value in the form of commodities than he has extracted in the form of commodities. In so far as he functions merely as the personification of capital, as industrial capitalist, his supply of commodity-value is always greater than his demand for it. If his supply and demand matched one another in this respect, this would be equivalent to the non-valorization of his capital; it would not nave functioned as productive capital; productive capital would have been transformed into commodity capital that had not been impregnated with surplus-value; it would not have extracted from labour-power during the production process any surplus-value in the commodity form, and thus not functioned as capital at all. The capitalist must indeed ‘sell dearer than he has bought’, but he manages to do this only because the capitalist production process enables him to transform the cheaper, because less valuable, commodities that he has bought into more valuable and hence dearer ones. He sells dearer, not because he sells above the value of his commodities, but because he sells commodities of a value greater than the sum of values of the ingredients required to produce them.
+    > 
+    > The greater the difference between the capitalist’s supply and his demand, i.e. the greater the additional commodity value that he supplies over the commodity value that he demands, the greater the rate at which he valorizes his capital. His goal is not simply to cover his demand with his supply, but to have the greatest possible excess of supply over demand.
+
+
+## 5. Circulation Time
+
+-   [[Production time]] is the time in which capital functions as means of production
+    
+    > There is therefore a difference between the capital’s production time and its functioning time. The production time of the means of production generally comprises (1) the time during which they function as means of production, and thus serve in the production process; (2) the pauses during which the production process, and thus also the functioning of the means of production incorporated in it, is interrupted; (3) the time during which they are held in reserve as conditions of the process, and thus already represent productive capital, but are not yet engaged in the production process.
+-   Within the realm of circulation, capital exists as commodity capital and money capital, and transforms between the two during circulation
+    
+    > Within the circulation sphere, capital exists as commodity capital and money capital. Its two circulation processes consist in transforming itself from the commodity form into the money form and from the money form into the commodity form. The circumstance that the transformation of the commodity into money is here at the same time the realization of the surplus-value embodied in the commodity, and that the transformation of money into commodity is at the same time the transformation of capital value into, or back into, the form of its elements of production, in no way changes the fact that these processes, as processes of circulation, are processes of simple commodity metamorphosis.
+-   While capital is in circulation, it cannot be used in production.
+    
+    > Circulation time and production time are mutually exclusive. During its circulation time, capital does not function as productive capital, and therefore produces neither commodities nor surplus-value. If we consider the circuit in its simplest form, so that the entire capital value always moves at one stroke from one phase to the other, then it is obvious that the production process is interrupted, and with it therefore the self-valorization of capital, so long as its circulation time lasts, and that according to the duration of the latter, the production process will be repeated sooner or later. If the various parts of the capital pass through the circuit in succession, so that the circuit of the total capital value is successively accomplished in the circuit of its various portions, then it is clear that the longer its aliquot parts remain in the circulation sphere, the smaller must be the part that functions at any time in the production sphere. The expansion and contraction of the circulation time hence acts as a negative limit on the contraction or expansion of the production time, or of the scale on which a capital of a given magnitude can function. The more that the circulation metamorphoses of capital are only ideal, i.e. the closer the circulation time comes to zero, the more the capital functions, and the greater is its productivity and self-valorization.
+-   (see quote above) [[Capital can only create value during production, therefore it is more productive the less time it has to circulate]]
+-   The sale of a commodity is not the realization of the surplus-value contained within it.
+    
+    > There is a distinction between C–M and M–C that has nothing to do with the difference in form between commodities and money, but derives from the capitalist character of production. In and for themselves, both C–M and M–C are mere translations of the given value from one form into the other. But C′–M′ is at the same time the realization of the surplus-value contained in C′ . Not so M–C . Hence the sale is more important than the purchase. M–C is in normal conditions a necessary act for the valorization of the value expressed in M , but it is not a realization of surplus-value; it is a prelude to its production, not an appendix to it.
+
+
+## 6. The Costs of Circulation
+
+-   241
+    
+    > He expends his labour-power and his labour time in the operations C–M and M–C . And hence he lives off this in the same way as someone else might live from spinning or making pills. He performs a necessary function, because the reproduction process itself includes unproductive functions. He works as well as the next man, but the content of his labour creates neither value nor products. He is himself part of the faux frais \* of production. His usefulness does not lie in his transforming an unproductive function into a productive one, or unproductive labour into productive. It would be a miracle if a transformation of this kind could be brought about by such a transference of functions. He is useful rather because a smaller part of society’s labour-power and labour time is now tied up in these unproductive functions. Still more. Let us assume that he is simply a wage-labourer, even if one of the better paid. Whatever his payment, as a wage-labourer he works part of the day for nothing. He may receive every day the value product of eight hours’ labour, and function for ten. The two hours’ surplus labour that he performs no more produce value than do his eight hours of necessary labour, although it is by means of the latter that a part of the social product is transferred to him. In the first place, both before and after, from the social point of view a person’s labour-power is used up for ten hours in this mere circulation who performs them. Society does not appropriate by this means any additional product or value. But the costs of circulation that he represents are reduced by a fifth, from ten hours to eight. Society pays no equivalent for a fifth of this active circulation time whose agent he is. If it is the capitalist who employs these agents, then the circulation costs of his capital, which form a deduction from his receipts, are reduced by the non-payment of the two hours. For him, this is a positive profit, because the negative restriction on the valorization of his capital is reduced. As long as small independent commodity producers spend a part of their own time in buying and selling, this simply presents itself as time spent in the intervals between their productive function, or as a loss in their production time.
+    
+    -   The capitalist bears the cost of circulation
+    -   The capitalist may employ people who participate in the sphere of circulation, at their expense, but they are agents who help secure the realization of the value of a commodity
+-   243
+    
+    > Labour-power and labour-time must be spent to a certain degree in the circulation process (in so far as this is a mere change of form). But this now appears as an additional outlay of capital; a part of the variable capital must be deployed in acquiring these labour-powers that function only in circulation. This capital advance creates neither products nor value. It proportionately reduces the scale on which the capital advanced functions productively. It is the same as if a part of the product was transformed into a machine that bought and sold the remaining part of the product. This machine means a deduction from the product. It is not involved in the production process, although it can reduce the labour-power, etc. spent on circulation. It simply forms a part of the circulation costs.
+    
+    -   Extra variable capital must be spent in the sphere of circulation. This variable capital doesn&rsquo;t directly produce value, and is part of the cost of circulation.
+-   245
+    
+    > This part of the capital is withdrawn from the production process and belongs to the costs of circulation, as a deduction from the total yield (including the actual labour-power
+-   245
+    
+    > Book-keeping, however, as the supervision and the ideal recapitulation of the process, becomes ever more necessary the more the process takes place on a social scale and loses its purely individual character; it is thus more necessary in capitalist production than in the fragmented production of handicraftsmen and peasants, more necessary in communal production than in capitalist.
+-   251
+    
+    > Adam Smith held that no stock existed in societies based on this mode of production. Adam Smith thus confused the form of stock with the stock itself, and believed that society previously lived from hand to mouth, abandoning itself to the hazards of the next day
+    
+    -   Adam Smith erroneously believed that pre-capitalist societies lived hand-to-mouth
+
+-   256
+    
+    > Ultimately, most members of the society are transformed into wage-labourers, people who live from hand to mouth, who receive their wages by the week and spend them by the day, and must thus find their means of subsistence available as a stock. However rapidly the particular elements of this stock may flow, a part of them must always stand still in order for the stock to remain in motion.
+-   259
+    
+    > The commodity stock must have a certain volume in order to satisfy the scale of demand over a given period. The continual extension of the circle of buyers is taken into account in this connection.
+-   262
+    
+    > The general law is that all circulation costs that arise simply from a change inform of the commodity cannot add any value to it .
+-   265
+    
+    > The capitalist mode of production reduces the transport costs for the individual commodity by developing the means of transport and communication, as well as by concentrating transport – i.e. by increasing its scale. It increases the part of social labour, both living and objectified, that is spent on commodity transport, firstly by transforming the great majority of all products into commodities, and then by replacing local by distant markets
+    
+    -   [[Capitalism develops societal infrastructure to reduce circulation costs]].
+-   265
+    
+    > The ‘circulating’ of commodities, i.e. their actual course in space, can be resolved into the transport of commodities. The transport industry forms on the one hand an independent branch of production, and hence a particular sphere for the investment of
+    
+    -   [[Transportation develops as its own branch of production]]:w
+
+
+## 7. Turnover Time and Number of Turnover
+
+-   267
+    
+    > the overall time of circulation of a given capital is the sum of its circulation time proper and its production time. It is the period of time that elapses from the moment that the capital value is advanced in a particular form until the return of the capital value in process in the same form.
+    
+    -   Turnover time is production time + circulation time.
+-   269
+    
+    > Just as the economists have rarely distinguished between the different forms of the circuit, so too they have rarely considered these separately in connection with the turnover of capital. They have generally concentrated on the form M … M′ because it is this that dominates the individual capitalist and is used by him in his calculations, even if money forms the starting-point only in the shape of money of account. Certain others proceed from outlays in the form of elements of production, finishing with the receipt of returns, without even mentioning the form of these returns, whether they are in commodities or money.
+    
+    -   Marx criticizes the bourgeois economists for not distinguishing the ways in which turnover occurs, whether the capital advanced returns to the capitalist as money or commodities. They only consider \\(M...M'\\).
+-   270
+    
+    > When the entire capital value that the individual capitalist invests in one branch of production or other has described its cyclical movement, it exists once again in its original form and of the capital, the individual circuit forms only a section that is constantly repeated, i.e. a period. At the close of the period M … M′ , the capital exists again in the form of money capital and passes once more through the series of changes of form that constitute its process of reproduction and valorization. At the close of the period P … P , the capital exists again in the form of the elements of production which constitute the premise of its repeated circuit. The circuit of capital, when this is taken not as an isolated act but as a periodic process, is called its turnover. The duration of this turnover is given by the sum of its production time and its circulation time. This period of time forms the capital’s turnover time. It thus measures the interval between one cyclical period of the total capital value and the next; the periodicity in the capital’s life-process, or, if you like, the time required for the renewal and repetition of the valorization and production process of the same capital value.
+-   271
+    
+    > For the capitalist, the turnover time of his capital is the time for which he has to advance his capital in order for this to be valorized and for him to receive it back in its original shape.
+
+
+## 8. Fixed Capital and Circulating Capital
+
+
+### Quotes
+
+-   272
+    
+    > The extent to which the value of such a means of production is given up or transferred to the product that it helps to fashion is determined by an average calculation; it is measured by the average duration of its function, from the time that it enters the production process as means of production to the time it is completely used up, is dead, and has to be replaced or reproduced by a new item of the same kind.
+    
+    <!--quoteend-->
+    
+    > The means of labour, on the other hand, never leave the production sphere once they have stepped into it. Their function confines them firmly within it. A part of the capital value advanced is fixed in this form, which is determined by the function of the means of labour in the process.
+    
+    -   See [[Machines in Marx&rsquo;s political economy]]
+-   273
+    
+    > The part of the capital value that is fixed in the means of labour circulates, just like any other part. As we have seen, the whole of the capital value is in constant circulation, and in this sense, therefore, all capital is circulating capital. But the circulation of the part of the capital considered here is a peculiar one. In the first place, it does not circulate in its use form. It is rather its value that circulates, and this does so gradually, bit by bit, in the degree to which it is transferred to the product that circulates as a commodity. A part of its value always remains fixed in it as long as it continues to function, and remains distinct from the commodities that it helps to produce. This peculiarity is what gives this part of the constant capital the form of fixed capital . All other material components of the capital advanced in the production process, on the other hand, form, by contrast to it, circulating or fluid capital .
+-   274
+    
+    > There is a further part of the means of production – those ancillaries that are consumed by the means of labour proper as they support the action, such as gas for lighting, etc., which also do not enter the product in their material form. It is only their value that constitutes part of the value of the product. The product circulates their value in its own circulation, and they have this in common with fixed capital. But they are completely consumed in every labour process that they enter into, and therefore, with each new labour process, they must be completely replaced by new items of the same kind. They do not preserve their independent use-shape as they function. And so no part of the capital value, either, remains fixed in their old use-shape, their natural form.
+-   276
+    
+    > If a means of production which is not a means of labour in the strict sense (e.g. ancillaries, raw material, semi-finished goods, etc.) behaves with respect to the way it gives up value and hence to the mode of circulation of its value in the same way as the means of labour, then it is also a material bearer, a form of existence, of fixed capital. This is the case with the already mentioned improvements to the soil, which put into it chemical components whose effect extends over several periods of production or several years. Here, one part of the value continues to exist alongside the product in its independent shape, or in the shape of fixed capital, while another portion of value is given up to the product and hence circulates with it. In a case like this, it is not only a part of the value of the fixed capital that enters the product, but also the use-value, the substance, in which this portion of value exists.
+-   284
+    
+    > The different ways in which value is given up to the product, and hence also the different ways in which this value is circulated by the product and replaced in its original natural form as a result of its metamorphoses, ultimately arise from the different material shapes in which productive capital exists, one part of it being consumed entirely in the course of forming the particular product, while another is used up only gradually. Thus it is only productive capital that can be divided up into fixed and fluid capital. This antithesis does not exist for the two other modes of existence of industrial capital, neither for commodity capital nor for money capital, nor yet as an antithesis between these two and productive capital. It exists only for productive capital and only within it . No matter how much money capital and commodity capital function as capital, and how fluidly they circulate, they can become fluid capital in contrast to fixed only when they have been transformed into the fluid components of productive capital.
+-   288
+    
+    > Wear and tear is occasioned in the first place by actual use.
+    
+    <!--quoteend-->
+    
+    > A further item of wear and tear is that caused by natural forces.
+    
+    <!--quoteend-->
+    
+    > Finally, as is the case throughout large-scale industry, moral deterioration also plays its part. After ten years have elapsed, it is generally possible to buy the same quantity of carriages and locomotives for £30,000 as previously cost £40,000. A depreciation of 25 per cent on the market price must thus be reckoned with on this material, even if there is no depreciation in the use-value
+-   289
+    
+    > Other elements of the fixed capital permit periodic or partial renewal. This partial or periodic replacement should be distinguished from the gradual extension of a business.
+-   292
+    
+    > Fixed capital gives rise to special costs of maintenance. A part of the maintenance is effected by the labour process itself; fixed capital spoils if it does not function in the labour process.
+    
+    <!--quoteend-->
+    
+    > The English law therefore expressly considers it as waste if land that is farmed out is not cultivated according to custom.
+    
+    <!--quoteend-->
+    
+    > But fixed capital also requires positive outlays of labour if it is to be kept in good condition. The machinery must be cleaned from time to time. This involves additional labour, without which it becomes unfit for use; this is merely a defence against the damaging influence of the elements that is inseparable from the production process, and is thus keeping it in working order in the most literal sense. The normal lifespan of fixed capital is naturally reckoned on the assumption that the conditions under which it can function normally during this time are fulfilled, just as it is assumed, if the average life of a man is taken as thirty years, that he washes himself. What is involved here is not the replacement of the labour contained in the machine, but additional labour that is constantly necessary for it to be used. This is not a matter of labour performed by the machine, but of labour performed on the machine; here it is not an agent of production, but rather raw material. The capital spent on this labour is part of the fluid capital, even though it does not properly enter the actual labour process to which the product owes its origin. The labour must be constantly performed in the course of production, and so its value must also be constantly replaced by the value of the product. The capital spent on it belongs overheads, and is distributed over the value of the product according to an average annual calculation.
+-   298
+    
+    > Something that is quite different both from the replacement of wear and tear and from the work of repair and maintenance is insurance , which relates to destruction by way of extraordinary natural events, fire, flood, etc. This must be made good out of surplus-value, and forms a deduction from it.
+
+
+### Notes
+
+-   [[Fixed capital]]
+-   [[Fluid capital]]
+
+
+## 9. The Overall Turnover of the Capital Advanced. Turnover Cycles
+
+
+## 10. Theories of Fixed and Circulating Capital. The Physiocrats and Adam Smith
+
+-   In this chapter Marx harshly criticizes the Physiocrats and [[Adam Smith]] over their lack of distinction between fixed and circulating capital
+-   What Smith calls &ldquo;circulating capital&rdquo; Marx calls &ldquo;capital of circulation&rdquo;, i.e. commodity and money capital
+-   Marx&rsquo;s criticism of [[Adam Smith]] largely boils down to the fact that he doesn&rsquo;t distinguish forms of capital
+-   Marx says that [[Adam Smith]] more or less doesn&rsquo;t understand what capital is, that capital depends on something&rsquo;s function
+-   For a cotton spinner, yarn is a commodity form of capital. A weaver who buys said yarn incorporates it into his productive capital as a fluid part. For the spinner, its value bears part of his fluid and fixed capital.
+-   Adam Smith incorrectly excludes labor-power as a component of circulating capital.
+    -   [[Labor-power]] is not commodity capital, but circulates on the market. Once it ceases to circulate as a commodity it becomes productive capital. Smith confuses fluid capital with commodity capital and therefore doesn&rsquo;t consider it circulating capital. Smith therefore confuses what a laborer receives from variable capital with what a laborer uses with variable capital.
+-   Smith confuses things that physically do not move with fixed capital
+-   Smith considers a worker&rsquo;s means of subsistence as circulating capital instead of fixed
+-   Because of Adam Smith&rsquo;s errors in this area, he and his successors do not understand that capital laid out for labor-power is variable capital
+-   See [[Marx&rsquo;s Criticism of Adam Smith]]
+
+
+## 11. Theories of Fixed and Circulating Capital. Ricardo
+
+-   Marx criticizes the language political economy uses when speaking of &ldquo;advancing&rdquo; capital laid out. He says that because he only pays the worker after the fact, the laborer is advancing their labor and the capitalist is realizing the value of that labor before the capitalist lays out capital on wages
+-   Marx says that when the capitalist lays out capital for the production process, the value laid out is replaced at different rates. Variable capital and objects of labor are replaced at the point of sale, while means of labor are only replaced gradually
+-   The sale of a commodity replaces the cost laid out on the value of labor-power and objects of labor
+-   Marx continues to criticize Smith (and subsequently Ricardo) for not distinguishing between forms of capital, and says that political economy held to this non-distinction because it obfuscated capitalist exploitation
+-   The production process is mediated by the circulation process
+-   The creation of surplus-value arises from the exchange of value for value-creating power, from the conversion of constant capital into variable capital
+-   What distinguishes fixed capital is the role that it plays in the production process. As a means of labor it&rsquo;s fixed, as an object of labor it&rsquo;s fluid
+-   During the production process, value laid out in labor-power and means of production are transformed into a product, and their value is only realized at the point of sale, which allows for this process to repeat itself
+-   Marx criticizes Ricardo (by proxy of Wayland) for thinking that value simply reappears in the finished product, and that this is a mystification, showing that no surplus-value is created
+-   &ldquo;&#x2026;transforms the social, economic character that things are stamped with in the production process of social production into a natural character arising from the material nature of these things.&rdquo;
+-   The means of subsistence that a worker withdraws from circulation depend on the ratio between surplus-value and price of labor
+-   Marx&rsquo;s fetishism critique comes from the fact that Ricardo confuses something as means of subsistence when it can also serve as raw material (wheat as seed-corn)
+-   A summary on bourgeois political economy confusion since Smith:
+    
+    > 1.  The distinction between fixed and fluid capital is confused with the distinction between productive capital and commodity capital. Thus the same machine is circulating capital, for example, when it exists on the market as a commodity, and fixed capital when it is incorporated into the production process. It is impossible to see here why one particular kind of capital should be more fixed or more circulating than another.
+    > 
+    > 2.  All circulating capital is identified with capital laid out or to be laid out on wages. This is the case with John Stuart Mill\* among others.
+    > 
+    > 3.  The distinction between variable and constant capital, which Barton, Ricardo and others already confused with that between circulating and fixed capital, is eventually reduced completely to the latter distinction, as with Ramsay for example, who takes not only means of labour, but all means of production, raw materials etc. as fixed capital, and only the capital laid out on wages as circulating capital. But because the reduction is accomplished in this way, the real distinction between constant and variable capital is not grasped.
+    > 
+    > 4.  The most recent English economists, and even more so the Scottish ones, who view everything from the unutterably narrow standpoint of a bank clerk – such as MacLeod, Patterson† and others – transform the distinction between fixed and circulating capital into that between ‘money at call’ and ‘money not at call’ (that is to say, between deposit money that can be withdrawn without prior notification, and money whose withdrawal requires such notification).
+
+
+## 12. The Working Period
+
+-   The labor process must be repeated a variable amount of times before a finished product can be completed. For example: see a house vs an iPhone
+-   successive working days needed to finish a product
+    -   e.g. it may take 100 days to build one locomotive. These 100 days are 1 working period
+-   Interruptions in the production process have different effects on products of labor that are discrete in nature
+    -   If a day&rsquo;s worth of cotton is spun one day and then not spun the next, that&rsquo;s one thing, but if a ship is being built and stops halfway through production, this causes problems
+-   production time + circulation time
+-   Increasing the production time reduces the speed of turnover
+-   Longer working periods require larger outlays of capital for a longer period of time
+-   In less developed forms of capitalism, enterprises that require a long working period are often not persued as a capitalist enterprise
+    -   Roads, canals, etc. are paid for by municipalities
+-   Housing is built speculatively to offset the cost of the working period (?)
+-   The credit system allows capitalists to offset their own risks
+-   The capitalist seeks to shorten the working period so that they can advance less capital over a period of time
+-   Fixed capital surrenders its value to the product as the product is built up over the working period, and doesn&rsquo;t need to be renewed unless by wear and tear
+-   Circulating capital must be renewed throughout the production process, unlike fixed capital
+
+
+## 13. Production Time
+
+-   All working time is production time, but not all time spent in the production sphere is working time
+-   amount of time capital sits in the production process
+    -   A superset of working time
+-   Marx distinguishes between the working of grapes for wine and the amount of time it takes for those grapes to ferment
+    -   Fermentation time + pressing = production time
+    -   pressing = working time
+-   There are a number of things that can effect production time, and Marx provides numerous examples of how production time effects production on the whole
+
+
+## 14. Circulation Time
+
+-   Circulation times of varying length make for different times of turnover
+-   period in which capital exists in the state of commodity capital
+-   Variations in turnover periods can operate individually and effect a similar variation in the turnover of related capitals
+    -   I think an example would be if a particular manufacturer was unable to buy raw materials
+-   An obvious cause of differentiation of selling time is distance from the market where commodities are made to where commodities are sold
+    -   No surprise that internet businesses, and Amazon in particular, have effectively eliminated this distance
+    -   Though in the following paragraph Marx says that this doesn&rsquo;t undo the actual time it takes to deliver a commodity (obviously)
+-   Marx asserts that the variations in turnover form the basis for differing periods of credit
+-   Longer circulation times can produce a risk of change of price on selling markets
+    -   Is this much of an issue today?
+-   period in which capital is transformed back from the money form into elements of productive capital
+-   An important consideration for purchasing time is the extent to which part of the capital advanced exists in the money form
+
+
+## 15. Effect of Circulations Time on the Magnitude of the Capital Advanced
+
+
+### First Example
+
+
+#### Assumptions
+
+-   A commodity capital
+-   Working period of 9 weeks
+-   Value = fluid capital advanced = $900
+-   Weekly outlay of $100
+-   Time in circulation: 3 weeks
+-   Turnover period: 12 weeks
+-   New cycle of production cannot start until start of 13th week
+-   Production is at a standstill for the time it is in circulation
+
+
+#### Notes
+
+-   If production is to be continuous, there are two possibilities:
+    1.  Scale of production is cut back
+        -   Second working period begins on the 10th week
+        -   A hold-up of production would necessitate more workers and a reserve of fixed capital
+        -   Same circulating capital must be distributed over a longer period of time (12 instead of 9 weeks)
+        -   Fluid part of productive capital is reduced by a quarter, $75/week vs $100/week
+        -
+    2.  Scale of production is not cut back
+        -   Fluid capital investment would need to be increased
+-   The working period of the capital of $900 ends after 9 weeks, but does not return until after 12 weeks
+
+
+#### Diagram     :ATTACH:
+
+([link](Example1(2).jpg))
+
+
+### Second Example
+
+
+#### Assumptions
+
+-   Working period: 5 weeks
+-   Turnover: 10 weeks
+-   $100 capital outlay per week, $500 total fluid capital per week
+
+
+#### Diagram     :ATTACH:
+
+-   [[link]]
+
+
+### Third Example
+
+
+#### Assumptions
+
+-   Working period: 6 weeks
+-   Circulation time: 3 weeks
+-   Weekly advance: $100
+
+
+#### Diagram     :ATTACH:
+
+-   [[link]]
+
+
+### Notes on the examples
+
+-   The second example is exceptional: capital is replaced at each step
+-   Capital which functioned during working period is idle during circulation
+-   Additional capital is required to maintain continuity
+-   Nothing changes if the production time is longer than the working time
+-   Additional capital simply fills the gaps
+-   Capital advanced is divided between constant and variable capital
+    -   Productive stock must be available in money form and exist at first
+    -   Wages must also be available upfront
+-   In the second example, turnover period coincides with working period, and circulation time is of no matter
+-   Only part of industrial capital has to be engaged in the production process if production is to proceed without interruption
+    -   One part can function as productive capital while another part is withdrawn from production proper in the form of commodity or money capital
+
+
+### Results
+
+-   No capital is set free if the working period is equal to the circulation period
+-   Capital is set free if the circulation period is greater than the working period (without forming multiples of it), or the working period is greater than the circulation period
+-   Setting free of capital is the rule, while replacement of portions of capital is the exception
+-   This chapter is extremely arduous but Engels jumps in to say that the real point of all of this up until now is that much of what makes up industrial capital is made up of the money form
+    
+    > The uncertain results of this tiresome calculation business led Marx to ascribe an undeserved significance to what in my opinion is in fact a matter of little importance. I refer to what he calls the ‘setting-free’ of money capital. The real question involved, on the assumptions made above, is this:
+    > 
+    > No matter what the ratio between the length of the working period and the circulation time may be, and thus between capital I and capital II, once the first turnover has occurred there returns to the capitalist, at regular intervals equal in length to the working period, the capital needed for one such working period – thus a sum equal to capital I.
+    > 
+    > If the working period is five weeks, the circulation time four weeks, and capital I £500, then a sum of £500 flows back each time, at the end of weeks 9, 14, 19, 24, etc.
+    > 
+    > If the working period is six weeks, the circulation time three weeks, and capital I £600, then £600 flows back at the end of weeks 9,15, 21, 27,33, etc.
+    > 
+    > Finally, if the working period is four weeks, the circulation time five weeks, capital I £400, then the reflux of £400 follows at the end of weeks 9, 13, 17, 21, 25, etc.
+    > 
+    > Whether and to what degree this capital that has returned is superfluous for the current working period, and is thus set free, makes no difference. It is assumed that production proceeds uninterruptedly on the existing scale, and, for this to occur, money must be present, and thus flow back, whether it is ‘set free’ or not. If production is interrupted, then this setting-free comes to an end.
+    > 
+    > In other words, there is in any case a release of money, i.e. a formation of latent, only potential capital, in the money form; but this happens in all circumstances, and not only under those particular conditions specified in the text; it happens, moreover, to a greater extent than that assumed in the text. In relation to circulating capital I, the industrial capitalist finds himself, at the end of each turnover, in precisely the same situation as when he set up his business; he has this capital completely in his hands once more, and at one go, while he can only gradually transform it again into productive capital.
+    > 
+    > The main thing in the text is the proof that a considerable part of industrial capital is always present in the money form, while a still more considerable part must assume this form from time to time. This proof is reinforced, if anything, by these additional remarks of mine. – F.E.)
+
+
+## 16. The Turnover of Variable Capital
+
+
+### 1. The Annual Rate of Surplus-Value
+
+-   Based on the examples Marx lays out in the chapter, it would appear that the rate of surplus-value depends on other things arising from the circulation process
+-   Turnover time modifies the ratio between capital advanced for the production process and capital applied given a production period
+
+
+### 2. The Turnover of an Individual Variable Capital
+
+-   The annual rate of surplus-value is affected by magnitude of capital advanced (?)
+
+
+### 3. The Turnover of Variable Capital Considered from the Social Point of View
+
+-   Wages will generally rise, at which point the [[reserve army of labor]] is brought into the workforce. A crisis will bring about the end of this wage rise, at which point these workers are again cast out and wages fall
+
+
+### General notes
+
+-   Variable capital is employed for the duration of the entire turnover period, at which point it needs to be renewed again
+-   The real rate of surplus-value is the ratio of surplus-value produced in a period over the variable capital employed during that time
+-   The annual rate of surplus-value is the former in the period of the year
+-   The key distinction is the capital employed vs the capital advanced
+-   Once again, the faster the turnover time, the more surplus-value a capitalist can get
+-   Delays in commodity production can lead to market crises
+
+
+## 17. The Circulation of Surplus-Value
+
+
+### [[Simple Reproduction]]
+
+-   Surplus-value periodically produced and realized is consumed individually, unproductively, by the capitalists
+-   Bourgeois economics presupposes the existence of surplus-value
+-   Before commodity capital is transformed back into productive capital and the surplus-value contained in it is spent, it must be turned into money
+    -   The production process takes the value of the productive capital and produces commodity values that are equal to the initial capital invested + surplus-value
+-   Marx asks &ldquo;Can a large initial investment that is bit by bit withdrawn from circulation suffice as surplus-value?&rdquo;
+    -   Marx replies to his own question with: no, the problem does not exist
+-   The capitalist class remains the sole starting point of money circulation
+    -   e.g. the money a worker spends on means of subsistence is already performing a second circulation when a worker spends that money
+-   &ldquo;How can the capitalist class extract more money from circulation than it puts in?&rdquo;
+    -   Answer: the capitalists cannot extract anything from circulation that wasn&rsquo;t put into it already
+-   (!) The capitalist class itself casts into circulation the money that serves towards the realization of surplus-value contained in commodities
+    -   Not as money advanced but as means of purchase
+
+
+### Accumulation and Expanded Reproduction
+
+-   I did not take any notes on this!
+
+
+### Notes (from &ldquo;Understanding Capital Vol. 2&rdquo;)
+
+-   A rise in wages means less consumption for the capitalists and thus a decrease in surplus-value
+-   Capitalists cannot raise prices arbitrarily because they are still beholden to the market and the value-form
+
+
+## 18. Introduction
+
+
+### 1. The Object of Inquiry
+
+-   Circuits of capital can be interlinked and mutually dependant
+-   This section will attempt to be about the entire total social capital
+
+
+### 2. The Role of Money Capital
+
+-   Commodity production presupposes commodity circulation
+-   Commodity circulation presupposes money circulation
+-   Money is the general form at which capital enters the process, at which point it&rsquo;s transformed into productive capital
+
+
+## 19. Former Presentations on the Subject
+
+
+### 1. [[The Physiocrats]]
+
+-   To the Physiocrats, the farmer was the basis of production for society
+-   Marx criticizes [[Adam Smith]] for believing that the value of seed is [[fixed capital]], which the Physiocrats did not believe
+
+
+### 2. [[Adam Smith]]
+
+See also [[Marx&rsquo;s Criticism of Adam Smith]]
+
+
+#### a. Smith&rsquo;s General Perspectives
+
+-   Marx criticizes Adam Smith for only dealing with simple reproduction
+-   Adam Smith&rsquo;s conception of fixed capital is part of the industrial capital advanced
+-   Adam Smith distinguishes workers involved in the means of production and means of consumption, which Marx considers an advancement
+-   Adam Smith believed that fixed capital should be excluded from the &rsquo;net revenue&rsquo; of a country
+-   For Smith, circulating capital of each individual capitalist forms the circulating capital of the whole society, as with each individual fixed capital
+-   sum of individual capitals
+
+
+#### b. Smith&rsquo;s Resolution of Exchange - Value into v+s
+
+-   Marx believes that the blunder Smith makes is that he doesn&rsquo;t differentiate between component parts of capital and revenue
+
+
+#### c. The Constant Capital Component
+
+-   Smith says that the whole price of corn, for example, is made up of: the wages of laborers, profit to the farmer, and rent to the landlord
+-   Marx criticizes Smith for confusing the _value of the annual product_ with the annual _value product_
+-   Marx criticizes Smith&rsquo;s &ldquo;esoteric&rdquo; conception of commodity value as being the reason why he fell into confusion
+
+
+#### d. Capital and Revenue in Adam Smith
+
+-   The worker selling the use-value of his labor belongs to the circulation process
+-   What Marx has meant by &ldquo;advanced&rdquo; is that the wage paid to the laborer is &ldquo;advanced&rdquo; to the production process itself
+-   Labor-power is a use-value
+-   The laborer realizes the price of their use-value (labor-power) in the form of a wage
+-   In the production process the worker forms part of the capital advanced by the capitalist
+-   Marx reminds us that [[wages are determined by the cost of the reproduction of the worker]]
+-   Marx again criticizes Smith for saying that wages are a form of capital
+-   the appropriation of values effected by the constantly repeated sale of a commodity, which are again used in the reproduction of the commodity to be sold
+
+
+#### e. Summary
+
+-   The purchase and sale of labor-power depends on &ldquo;the distribution of social elements of production&rdquo;
+    -   i.e. this act of circulation depends on a society upon which the purchase and sale of labor-power is possible
+-   Adam Smith confuses commodity production in general with capitalist commodity production
+-   The value of a commodity is: surplus-value + labor power + constant capital
+
+
+### 3. Later Writers
+
+-   Ricardo basically reproduces Adam Smith wholesale
+-   The quote to sum up the whole project:
+    
+    > The result is that Smith’s confusion persists to this day, and his dogma forms an article of orthodox belief in political economy.
+
+
+## 20. Simple Reproduction
+
+
+### 1. Formulation of the Problem
+
+-   The problem: &ldquo;how is capital consumed in production replaced in its value out of the annual product, and how is the movement of its replacement intertwined with the consumption of surplus-value by capitalists and of wages by workers?&rdquo;
+
+
+### 2. The Two Departments of Social Production
+
+-   Society&rsquo;s total product breaks down into two departments:
+    1.  Means of production
+        -   Commodities which have a productive consumption
+    2.  Means of consumption
+        -   Commodities which have a form in which they enter the individual consumption of capitalist and working classes
+-   Capital has two components in each department:
+    1.  Variable capital
+        -   Value of the sum of wages paid out
+    2.  Constant capital
+        -   Value of means of production, broken into:
+            1.  Fixed capital: machines, instruments of labor, etc.
+            2.  Circulating capital: materials of production etc.
+
+
+### 3. Exchange Between the Two Departments: I Against II
+
+-   In the case of simple reproduction, the value components \\(v + s\\) in department I must be equal to their constant capital in department II
+    -   i.e. \\(I\_{v=s} = II\_c\\)
+
+
+### 4. Exchange within department II. necessary means of subsistence and luxury items
+
+-   Department II can be broken into two further subdivisions:
+    1.  Necessary means of subsistence for the working class
+        -   Variable capital advanced in this area of production must flow back to the capitalists in department IIa
+    2.  Luxury means of consumption, which are consumed only by the capitalist class
+-   Marx says that it&rsquo;s tautological to say that crises are provoked by a lack of effective demand or effective consumption
+
+
+### 5. The Mediation of Exchanges by Monetary Circulation
+
+-   &ldquo;Two things are always required for commodity circulation: commodities have to be cast into circulation, and so has money.&rdquo;
+-   Capitalists only ever part with money in exchange for an equivalent, capitalists are the starting point for circulation
+-   Circulation is obscured by the appearance of commercial capital and money capital, and the division of surplus-value into different categories
+
+
+### 6. The Constant Capital in Department I
+
+-   The constant capital of Department I consists of different groups of capitals invested in various branches of production of means of production
+    -   Iron works, coal mines, etc.
+-   Constant capital value of partial products in dept I do not go directly back to their particular spheres of production, they change place
+-   Each capitalist in dept I withdraws means of production needed by him
+    -   If production was social, products of dept I would be constantly redistributed among branches of production as needed
+
+
+### 7. Variable Capital and Surplus-Value in the Two Departments
+
+(no notes)
+
+
+### 8. The Constant Capital in Both Departments
+
+-   \\(II\_{(c+v+s)} = I\_{(v+s)} + II\_{(v + s)}\\)
+-   A good quote:
+    
+    > In speaking of the social point of view, i.e. in considering the total social product, which includes both the reproduction of the social capital and individual consumption, it is necessary to avoid falling into the habits of bourgeois economics, as imitated by Proudhon, i.e. to avoid looking at things as if a society based on the capitalist mode of production lost its specific historical and economic character when considered en bloc, as a totality. This is not the case at all. What we have to deal with is the collective capitalist. The total capital appears as the share capital of all individual capitalists together. This joint-stock company has in common with many other joint-stock companies that everyone knows what they put into it, but not what they will get out of it.
+
+
+### 9. A Look Back at Adam Smith, Storch and Ramsay
+
+-   The value of the annual product is divided into capital and profit, and that these parts go into buying products that the nation needs to maintain its capital and replace its consumption fund
+-   Marx criticizes Smith yet again for believing that consumers must pay the producers the _entire value_ of the products
+-   Constant capital of dept I is replaced in kind by exchange among the capitalists of dept I, and partly in each particular business
+-   Marx believes that &ldquo;entire value of annual product must be paid by consumers&rdquo; is correct if and only if &ldquo;consumers&rdquo; is taken to mean individual consumers _and_ productive ones
+-   Marx criticizes Smith for confusing the distinction between constant and variable capital, yet again
+
+
+### 10. Capital and Revenue: Variable Capital and Wages
+
+-   Value created is only found in \\(v + s\\)
+-   What distinguishes capitalist society from other societies is the amount of disposable annual labor on means of production
+-   Variable capital functions as capital in the hands of the capitalist and as revenue in the hands of the wage-laborer
+-   II uses the money from workers to buy means of production from I
+
+
+### 11. Replacement of the Fixed Capital
+
+
+### 12. The Reproduction of the Money Material
+
+
+### 13.
+
+-   &ldquo;Labor is the source of all wealth&rdquo; comes from Adam Smith and not Marx
+
+
+## 21. Accumulation and Reproduction on an Expanded Scale
+
+
+### 1. Accumulation in Department I
+
+
+#### (a) Hoard Formation
+
+-   (no notes)
+
+
+#### (b) The Additional Constant Capital
+
+-   (no notes)
+
+
+#### (c) The Additional Variable Capital
+
+-   
+
+
+### 3. Schematic Presentation of Accumulation
+
+-   Department II has some unique characteristics:
+    1.  Reduce wages below normal level
+    2.  Buys labor-power and resells its commodities to its own workers
+
+Somewhere along the way I gave up trying to follow this chapter super closely.
+
+
+## Backlinks
+
+-   [[Marx was an early systems theorist]]
+-   [[circulation of capital]]
+-   [[capitalists do not horde their money]]
+-   [[Marx&rsquo;s theory of surplus-value]]
+-   [[Turnover time of capital]]
+-   [[Capitalism develops societal infrastructure to reduce circulation costs]]
+-   [[Factions of capital]]
+-   [[Factions of capital]]
+-   [[Fixed capital]]
+-   [[Capitalism is a relation of production, not a relation of commerce.]]
+-   [[Capital is more productive the less time it spends in circulation]]
+-   [[&ldquo;Not One Man! Not One Penny!&rdquo; German Social Democracy, 1863-1914]]
+-   [[A Companion to Marx&rsquo;s Capital Vol. 2]]
+-   [[proletariat]]
+-   [[Fluid capital]]
+-   [[Example of fixed capital: cooking]]
+-   [[commodity capital]]
+-   [[Transportation develops as its own branch of production]]
+-   [[not all capital is money]]
+-   [[productive capital]]
+-   [[money capital]]

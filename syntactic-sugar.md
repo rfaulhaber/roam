@@ -1,0 +1,7 @@
+# syntactic sugar
+
+
+
+## Backlinks
+
+-   [[destructuring]]

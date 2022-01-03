@@ -1,0 +1,49 @@
+# Principles
+
+
+
+## Notes
+
+
+### Writing is the Only Thing That Matters
+
+-   There&rsquo;s quite a bit of discussion in this section about the significance of learning, writing, and reading in an academic context. This will not be reproduced here, as it is in many ways preaching to the choir. The gist of what is being omitted is basically that school does an inadequate job of preparing a student for independent research.
+
+
+### Simplicity is Paramount
+
+-   Note-taking shouldn&rsquo;t be about collecting information so to speak: it should be about contextualizing what information you have read
+    
+    > In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again?
+-   The threshold for writing new notes must be as easy and unintrusive as possible. It should be easy to write a thought about what you&rsquo;re reading as unintrusively as possible without upsetting your reading workflow
+    
+    > I make a note with the bibliographic details. On the backside I would write ‘on page x is this, on page y is that,’ and then it goes into the bibliographic slip-box where I collect everything I read. &#x2014; [[Luhmann]]
+-   (Note to self, I need to better get into the habit of creating new notes that refect my own ideas)
+-   Permanent notes should be so well-developed that they could be part of a final paper
+    
+    > As it is not possible to foresee the development of the slip-box, the fate of the notes is nothing to worry about. In contrast to the fleeting notes, every permanent note for the slip-box is elaborated enough to have the potential to become part of or inspire a final written piece, but that can not be decided on up front as their relevance depends on future thinking and developments. The notes are no longer reminders of thoughts or ideas, but contain the actual thought or idea in written form. This is a crucial difference.
+-   
+
+
+### Nobody Ever Starts from Scratch
+
+-   The book talks about how the writing process is misunderstood. It always assumes the topic is the starting point. Zettelkasten is more about collecting potential topics and understanding their relationships
+    
+    > Every intellectual endeavour starts from an already existing preconception, which then can be transformed during further inquires and can serve as a starting point for following endeavours. Basically, that is what Hans-Georg Gadamer called the hermeneutic circle (Gadamer 2004). And even though the hermeneutic circle is regularly taught in university, writing at the same time continues to be taught as if we could start from scratch and move forward in a straight line – as if it were possible to pull a good question out of thin air and wait with the reading until the literature research is done. The seemingly pragmatic and down-to-earth-sounding advice – to decide what to write about before you start writing – is therefore either misleading or banal. It is banal if it means only that you should think before you put words on paper. It is misleading if it means that you could make a sound plan on what to write before you have immersed yourself in the topics at hand, which involves writing. It accompanies everything: We have to read with a pen in hand, develop ideas on paper and build up an ever-growing pool of externalised thoughts. We will not be guided by a blindly made-up plan picked from our unreliable brains, but by our interest, curiosity and intuition, which is formed and informed by the actual work of reading, thinking, discussing, writing and developing ideas – and is something that continuously grows and reflects our knowledge and understanding externally. By focusing on what is interesting and keeping written track of your own intellectual development, topics, questions and arguments will emerge from the material without force. Not only does it means that finding a topic or a research question will become easier, as we don’t have to squeeze it out of the few ideas that are on top of our head anymore, every question that emerges out of our slip-box will naturally and handily come with material to work with. If we look into our slip-box to see where clusters have built up, we not only see possible topics, but topics we have already worked on – even if we were not able to see it up front. The idea that nobody ever starts from scratch suddenly becomes very concrete. If we take it seriously and work accordingly, we literally never have to start from scratch again.
+-   (I&rsquo;m realizing that [[Roam]] might not exactly be a pure representation of Zettelkasten in this regard)
+-   By collecting notes all related to a particular topic, coming up with a topic to write about should be as easy as reaching into the slip box and grabbing a bunch of related notes!
+
+
+### Let the Work Carry You Forward
+
+-   The dynamic that Zettelkasten should foster is one in which the work itself creates the momentum to move forward. It should not feel draining!
+-   A good workflow should be a virtuous circle. Any attempt to trick ourselves into work with external rewards will lead to failure. The work itself should be motivation and reward
+-   A [[growth mindset]] is one in which feedback, positive or negative, is constantly sought after
+-   Reading with a pen in hand requires us to engage with the material that we read, i.e. it&rsquo;s a way of checking upon our understanding and forces us to rewrite our notes in our own words
+-   Permanent notes should be written using your own words. This is a check on you understanding the content!
+-   The slip-box is not a collection of notes, it&rsquo;s about generating insight. By turning to the slip-box we should be able to see connections between topics. **The more content it contains, the more connections it provides, the easier it is to search and gain new insights.**
+
+
+## Backlinks
+
+-   [[How To Take Smart Notes]]

@@ -1,0 +1,7 @@
+# Kierkegaard
+
+
+
+## Backlinks
+
+-   [[existentialism]]

@@ -1,0 +1,20 @@
+# labor-power
+
+
+
+## Backlinks
+
+-   [[the accumulation of capital]]
+-   [[Machines in Marx&rsquo;s political economy]]
+-   [[Capital Vol. 1]]
+-   [[Capital Vol. 1]]
+-   [[Capital Vol. 1]]
+-   [[Capital Vol. 1]]
+-   [[Capital Vol. 1]]
+-   [[Capital Vol. 1]]
+-   [[10. Theories of Fixed and Circulating Capital. The Physiocrats and Adam Smith]]
+-   [[workers only have their labor-power to sell]]
+-   [[wage labor]]
+-   [[reinvestment and labor market are unique to capitalism]]
+-   [[wages are determined by the cost of the reproduction of the worker]]
+-   [[capitalism commodified time]]

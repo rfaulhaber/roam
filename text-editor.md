@@ -1,0 +1,7 @@
+# text editor
+
+
+
+## Backlinks
+
+-   [[Emacs]]

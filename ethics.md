@@ -1,0 +1,7 @@
+# ethics
+
+
+
+## Backlinks
+
+-   [[virtue ethics]]

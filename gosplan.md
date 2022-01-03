@@ -1,0 +1,9 @@
+# Gosplan
+
+
+
+## Backlinks
+
+-   [[to what extent was the Soviet Union planned?]]
+-   [[socialist planning]]
+-   [[capitalism manages the economy in a decentralized manner]]

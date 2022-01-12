@@ -11,8 +11,3 @@ Being able to live your life care-free, without worrying day-to-day where, say, 
 
 
 ## Freedom is the ability to do what you wish
-
-
-## Backlinks
-
--   [[should we abolish alienation?]]

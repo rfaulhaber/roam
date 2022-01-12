@@ -1,7 +1,3 @@
 # Hollywood
 
 
-
-## Backlinks
-
--   [[Cary Grant]]

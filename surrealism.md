@@ -1,7 +1,3 @@
 # surrealism
 
 
-
-## Backlinks
-
--   [[Fictions (Borges)]]

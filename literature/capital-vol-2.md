@@ -758,28 +758,3 @@ See also [[Marx&rsquo;s Criticism of Adam Smith]]
     2.  Buys labor-power and resells its commodities to its own workers
 
 Somewhere along the way I gave up trying to follow this chapter super closely.
-
-
-## Backlinks
-
--   [[Marx was an early systems theorist]]
--   [[circulation of capital]]
--   [[capitalists do not horde their money]]
--   [[Marx&rsquo;s theory of surplus-value]]
--   [[Turnover time of capital]]
--   [[Capitalism develops societal infrastructure to reduce circulation costs]]
--   [[Factions of capital]]
--   [[Factions of capital]]
--   [[Fixed capital]]
--   [[Capitalism is a relation of production, not a relation of commerce.]]
--   [[Capital is more productive the less time it spends in circulation]]
--   [[&ldquo;Not One Man! Not One Penny!&rdquo; German Social Democracy, 1863-1914]]
--   [[A Companion to Marx&rsquo;s Capital Vol. 2]]
--   [[proletariat]]
--   [[Fluid capital]]
--   [[Example of fixed capital: cooking]]
--   [[commodity capital]]
--   [[Transportation develops as its own branch of production]]
--   [[not all capital is money]]
--   [[productive capital]]
--   [[money capital]]

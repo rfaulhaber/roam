@@ -38,8 +38,3 @@ source
         -   Composition of morphisms: Could convert from USD -> CHD -> EURO
 -   a subset of a category
 -   \\(X -> Y\\) and \\(Y -> X\\) are opposite categories of one another
-
-
-## Backlinks
-
--   [[category]]

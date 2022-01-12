@@ -536,9 +536,3 @@ The SPD probably had one of the most effective propaganda wings of any organizat
 The fact that the SPD had a spurious relationship to formal ideology also caused them to have inconsistent political action sometimes.
 
 [[Lenin]]&rsquo;s conception of the [[vanguard party]] was a response to the SPD&rsquo;s strategy of a &ldquo;party in waiting.&rdquo;
-
-
-## Backlinks
-
--   [[one reactionary mass]]
--   [[centralization vs decentralization is a false dichotomy]]

@@ -15,8 +15,3 @@ const obj = {
     },
 };
 ```
-
-
-## Backlinks
-
--   [[object-oriented programming]]

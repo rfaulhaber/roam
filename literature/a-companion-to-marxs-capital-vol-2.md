@@ -197,8 +197,3 @@ Chapters 4-6 in vol. 2 are mostly about the sphere of circulation, an often negl
 
 
 ## 12. Reflections
-
-
-## Backlinks
-
--   [[Factions of capital]]

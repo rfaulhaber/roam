@@ -1,7 +1,3 @@
 # JVM
 
 
-
-## Backlinks
-
--   [[virtual machine]]

@@ -9,8 +9,3 @@ Historically, communist parties have done at least the following:
 -   Organized labor and agitation
 
 But what should a communist party do?
-
-
-## Backlinks
-
--   [[the masses are more revolutionary than parties]]

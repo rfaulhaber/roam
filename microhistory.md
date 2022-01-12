@@ -1,7 +1,3 @@
 # microhistory
 
 
-
-## Backlinks
-
--   [[historiography]]

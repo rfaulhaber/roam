@@ -1,7 +1,3 @@
 # Bash
 
 
-
-## Backlinks
-
--   [[Tcl]]

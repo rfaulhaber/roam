@@ -10,16 +10,3 @@ The term &ldquo;cybernetics&rdquo; comes from the Greek word &ldquo;κυβερν
 Cybernetics developed out of operational research done by the British and American governments during the [[Second World War]]. The term was coined by [[Norbert Weiner]].
 
 Around the time that computing became more mainstream, cybernetics became a distinct field from [[artificial intelligence]], where previously it was the same field (see: [[split between cybernetics and artificial intelligence]]).
-
-
-## Backlinks
-
--   [[Cybersyn]]
--   [[Cybernetics Versus Informatics: Understanding the Type Wars | Medium.com]]
--   [[Fritjof Capra: The Web of Life]]
--   [[The Philosophy of Living Experience]]
--   [[The Philosophy of Living Experience]]
--   [[control]]
--   [[the purpose of a system is what it does]]
--   [[Eight Definitions of Cybernetics]]
--   [[split between cybernetics and artificial intelligence]]

@@ -2,8 +2,3 @@
 
 tags
 : [[Capital]] [[capitalism]] [[Capital Vol. 2]]
-
-
-## Backlinks
-
--   [[Capital Vol. 2]]

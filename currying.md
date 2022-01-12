@@ -42,8 +42,3 @@ add10 = add 10
 
 add10 100 2
 ```
-
-
-## Backlinks
-
--   [[partial application]]

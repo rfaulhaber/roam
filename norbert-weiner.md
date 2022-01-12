@@ -1,7 +1,3 @@
 # Norbert Weiner
 
 
-
-## Backlinks
-
--   [[cybernetics]]

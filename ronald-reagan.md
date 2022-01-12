@@ -1,7 +1,3 @@
 # Ronald Reagan
 
 
-
-## Backlinks
-
--   [[ordoliberalism]]

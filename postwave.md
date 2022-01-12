@@ -39,8 +39,3 @@ A Tumblr clone.
 
 -   Federated API
 -   Web client
-
-
-## Backlinks
-
--   [[Project Urbs]]

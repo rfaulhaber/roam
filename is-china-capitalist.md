@@ -21,8 +21,3 @@ There is a similar question, which is &ldquo;is China socialist?&rdquo;, however
 -   Has regulated economy
     -   [[socialism is more than just state power]]
 -   Does not benefit from [[imperialism]]
-
-
-## Backlinks
-
--   [[Why China is Capitalist | PM Press]]

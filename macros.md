@@ -42,8 +42,3 @@ fn main () {
 ```
 
 Macros allow for [[programming language extension]].
-
-
-## Backlinks
-
--   [[programming language extension]]

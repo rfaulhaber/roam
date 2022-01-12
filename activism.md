@@ -1,7 +1,3 @@
 # activism
 
 
-
-## Backlinks
-
--   [[left communism]]

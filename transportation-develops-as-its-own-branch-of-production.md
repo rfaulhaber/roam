@@ -10,8 +10,3 @@ relevant notes:
     -   [[Capitalism develops societal infrastructure to reduce circulation costs]]
 
 Transportation develops as its own branch of production in capitalism because the movement of commodities is so important. This allows individual capitalists to externalize the costs of circulation. Transportation itself is not productive but serves in the production process.
-
-
-## Backlinks
-
--   [[Capital Vol. 2]]

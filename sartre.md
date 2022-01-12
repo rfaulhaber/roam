@@ -1,8 +1,3 @@
 # Sartre
 
 
-
-## Backlinks
-
--   [[Sociomorphism]]
--   [[existentialism]]

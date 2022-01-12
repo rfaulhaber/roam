@@ -16,27 +16,3 @@ Expressions in Lisp are called _[[s-expressions]]_, and they look like this:
 where `+` above is a function, called with arguments `1`, `2`, and `3`.
 
 Lisps are simple to implement due to their usage of s-expressions, as s-expressions are just [[ASTs]].
-
-
-## Backlinks
-
--   [[implementing Lisp scope and closure]]
--   [[Lisp programs are also data]]
--   [[functional application]]
--   [[functional application]]
--   [[dialect of Lisp]]
--   [[bytecode]]
--   [[Emacs Lisp]]
--   [[Clojure]]
--   [[Lisp in Small Pieces]]
--   [[The Little Schemer]]
--   [[Cybernetics Versus Informatics: Understanding the Type Wars | Medium.com]]
--   [[Tcl]]
--   [[Alan Kay on Lisp]]
--   [[s-expression]]
--   [[macros]]
--   [[Lisp Machine]]
--   [[homoiconicity]]
--   [[Lisp primitives]]
--   [[continuation]]
--   [[EIEIO]]

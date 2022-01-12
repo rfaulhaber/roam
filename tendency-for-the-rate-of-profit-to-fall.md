@@ -2,8 +2,3 @@
 
 tags
 : [[capitalism]]
-
-
-## Backlinks
-
--   [[Cosmonaut - Mask Off - Crisis and Struggle in the Pandemic]]

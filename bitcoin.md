@@ -1,7 +1,3 @@
 # Bitcoin
 
 
-
-## Backlinks
-
--   [[blockchain]]

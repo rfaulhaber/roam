@@ -1,7 +1,3 @@
 # Tumblr
 
 
-
-## Backlinks
-
--   [[Project Urbs]]

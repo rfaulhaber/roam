@@ -23,8 +23,3 @@ Project notes
         -   reminders
         -   to-do lists
         -   publication drafts
-
-
-## Backlinks
-
--   [[How To Take Smart Notes]]

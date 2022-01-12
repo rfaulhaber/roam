@@ -11,9 +11,3 @@ Socialists ought to have a positive vision of the future, rather than just a neg
 Increasingly, as we are told that [[there is no alternative]], but as socialists we ought to advocate for an alternative, knowing what we know.
 
 Although [[Marx]] famously did not speak much on what communism would be like, he was trying not to be prescriptive like the [[utopian socialists]] before him.
-
-
-## Backlinks
-
--   [[communists should attempt to make a vision for future society]]
--   [[Automation and the Future of Work]]

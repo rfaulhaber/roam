@@ -25,10 +25,3 @@ This is what he called [[abstract fetishism]].
 ### Heinrich
 
 [[Michael Heinrich]] said that fetishism indicates that there is more to the world than what is directly observable, and that fetishism is something we must account for. Its existence can be seen as a criticism of [[empiricism]].
-
-
-## Backlinks
-
--   [[20211012]]
--   [[abstract fetishism]]
--   [[reification]]

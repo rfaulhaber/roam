@@ -7,9 +7,3 @@ It is often seen as a kind of [[contract]] between the citizens and the governme
 It enshrines basic rights of its citizens, including the right to free speech and free association.
 
 Some would say that its a living document, however it&rsquo;s clear that even by the 1820s the Constitution&rsquo;s faults were showing. Even today, the Constitution makes the United States government absolutely rigid and slow to change. Some would say that [[this is the point]].
-
-
-## Backlinks
-
--   [[Dred Scott case]]
--   [[Thirteenth Amendment]]

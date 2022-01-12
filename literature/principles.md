@@ -42,8 +42,3 @@
 -   Reading with a pen in hand requires us to engage with the material that we read, i.e. it&rsquo;s a way of checking upon our understanding and forces us to rewrite our notes in our own words
 -   Permanent notes should be written using your own words. This is a check on you understanding the content!
 -   The slip-box is not a collection of notes, it&rsquo;s about generating insight. By turning to the slip-box we should be able to see connections between topics. **The more content it contains, the more connections it provides, the easier it is to search and gain new insights.**
-
-
-## Backlinks
-
--   [[How To Take Smart Notes]]

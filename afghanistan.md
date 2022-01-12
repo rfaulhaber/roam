@@ -1,7 +1,3 @@
 # Afghanistan
 
 
-
-## Backlinks
-
--   [[Afghanistan War]]

@@ -1,7 +1,3 @@
 # hermeticism
 
 
-
-## Backlinks
-
--   [[alienation]]

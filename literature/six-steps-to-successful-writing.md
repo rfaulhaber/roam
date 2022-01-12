@@ -126,8 +126,3 @@ TODO break this note up further!
 -   When it comes to writing, you should try and consider writing only for yourself first
 
 > If there is one piece of advice that is worth giving, it is to keep in mind that the first draft is only the first draft. Slavoj Žižek said in an interview that he wouldn’t be able to write a single sentence if he didn’t start by convincing himself he was only writing down some ideas for himself, and that maybe he could turn it into something publishable later. By the time he stopped writing, he was always surprised to find that the only thing left to do was revise the draft he already had.
-
-
-## Backlinks
-
--   [[How To Take Smart Notes]]

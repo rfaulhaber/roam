@@ -101,8 +101,3 @@ Ryan Faulhaber, [12.10.21 14:21] no moral right in connection with one man&rsquo
 -   [[Thomas Jefferson]] was hostile to wage labor and favored [[yeoman]] ideals
 -   Leading up to the Civil War, the tension between [[capitalism]] and [[slavery]] only grew. These were mutually exclusive and antagonistic economic forces
 -   Slavery impeded the growth of capitalism
-
-
-## Backlinks
-
--   [[Battle Cry of Freedom highlights]]

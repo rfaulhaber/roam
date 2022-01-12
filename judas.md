@@ -1,7 +1,3 @@
 # Judas
 
 
-
-## Backlinks
-
--   [[Fictions (Borges)]]

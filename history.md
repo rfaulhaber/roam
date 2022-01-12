@@ -1,7 +1,3 @@
 # history
 
 
-
-## Backlinks
-
--   [[historiography]]

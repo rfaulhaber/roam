@@ -13,9 +13,3 @@ Marx&rsquo;s criticisms of Smith in Chapter 10 of Volume 2 amount to Smith not u
 
 -   Marx criticizes Adam Smith for believing that wages are a form of capital
 -   Marx criticizes Smith practically every other sentence for confusing constant and variable capital
-
-
-## Backlinks
-
--   [[10. Theories of Fixed and Circulating Capital. The Physiocrats and Adam Smith]]
--   [[Capital Vol. 2]]

@@ -40,8 +40,3 @@ This article compares and contrasts the protests that are occurring in the wake 
 -   Protesters, should they make demands, will have to address the bigger picture rather than settle for reforms
     -   The big victory of the 2014 was police body cameras, which turned out to be a hollow victory
 -   The movement that cohered around the [[2014 Ferguson protests]], Black Lives Matter, is an assertion rather than a demand
-
-
-## Backlinks
-
--   [[black bloc]]

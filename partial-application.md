@@ -27,8 +27,3 @@ const add = (x: number, y: number): number => x + y;
 const add10 = partial(add, 10);
 console.log(add10(100));
 ```
-
-
-## Backlinks
-
--   [[Type-Driven Development With Idris]]

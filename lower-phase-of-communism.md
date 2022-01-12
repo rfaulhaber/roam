@@ -22,8 +22,3 @@ Critics of Lenin would argue that the goal of the lower phase of communism is ac
 ## Goal
 
 The goal of the lower phase of communism ought to be the conscious establishment of a way of life and mode of production alternative to capitalism that is as intuitive as how capitalism operates.
-
-
-## Backlinks
-
--   [[the role of the state and revolution]]

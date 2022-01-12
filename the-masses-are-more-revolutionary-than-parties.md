@@ -11,8 +11,3 @@ This was also something that [[Mao]] noticed and perhaps appreciated more than m
 Historically, this has also been a massive miscalculation on the part of revolutionary organizations. Arguably, the [[Soviet Union]] lost favor simply because it failed to meet the demands of its citizens. The government of Robespierre collapsed in part because they lost favor with the French people at the time.
 
 In general, people in the aggregate seem to know what they want, and know what they don&rsquo;t want. They have a sense of the problems in their world, but perhaps don&rsquo;t know how best to articulate it. Perhaps this is the [[role of a communist party]].
-
-
-## Backlinks
-
--   [[The Lost Revolution: Germany 1918 to 1923]]

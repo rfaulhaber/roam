@@ -1,7 +1,3 @@
 # Brazil
 
 
-
-## Backlinks
-
--   [[Confederados]]

@@ -15,20 +15,3 @@ Lenin&rsquo;s imperialism had to do with monopoly and finance capital. Finance c
 ## Kautsky&rsquo;s imperialism
 
 Kautsky&rsquo;s conception of imperialism is based on &ldquo;ultra-imperialism&rdquo;, that is, imperialist countries work together to form a cartel to exploit colonies and divide the resources extracted amongst themselves.
-
-
-## Backlinks
-
--   [[Kautsky was right about imperialism in the long term]]
--   [[Lenin&rsquo;s theory of imperialism]]
--   [[Rudolf Hilferding and Social Democracy | Pop The Left]]
--   [[Marxism or Modern Monetary Theory | Theorizing with a Hammer]]
--   [[&ldquo;Not One Man! Not One Penny!&rdquo; German Social Democracy, 1863-1914]]
--   [[&ldquo;Not One Man! Not One Penny!&rdquo; German Social Democracy, 1863-1914]]
--   [[&ldquo;Not One Man! Not One Penny!&rdquo; German Social Democracy, 1863-1914]]
--   [[The Ideology of Late Imperialism | Monthly Review]]
--   [[The Ideology of Late Imperialism | Monthly Review]]
--   [[A Companion to Marx&rsquo;s Capital]]
--   [[problem of working classes in advanced capitalist countries abandoning socialism]]
--   [[is China capitalist?]]
--   [[is china imperialist?]]

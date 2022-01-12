@@ -1,7 +1,3 @@
 # Gnosticism
 
 
-
-## Backlinks
-
--   [[Fictions (Borges)]]

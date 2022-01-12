@@ -9,8 +9,3 @@ Death drive is the [[psychoanalytic]] term used to describe a particular kind of
 > The aim of all life is death. &#x2014; Sigmund Freud
 
 [[Lacan]] believed that every drive was ultimately a death drive, and was intrinsically linked to the concept of [[jouissance]].
-
-
-## Backlinks
-
--   [[the desire to have nothing bothering you is an expression of the death drive]]

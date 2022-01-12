@@ -12,8 +12,3 @@ Lenin stated his concept of [[imperialism]] in _Imperialism: The Highest Stage o
 5.  Territorial division of the whole world among the biggest capitalist powers
 
 Lenin&rsquo;s theory of imperialism was contrasted and in response to [[Kautsky]]&rsquo;s theory.
-
-
-## Backlinks
-
--   [[oppressed/oppressor nations]]

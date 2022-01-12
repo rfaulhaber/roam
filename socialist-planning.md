@@ -24,9 +24,3 @@ Gosplan refers to the [[central planning]] agency within the [[Soviet Union]].
 
 
 ## [[Market socialism]]
-
-
-## Backlinks
-
--   [[communists should attempt to make a vision for future society]]
--   [[How to Make a Pencil | Logic Magazine]]

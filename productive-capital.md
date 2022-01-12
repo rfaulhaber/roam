@@ -5,8 +5,3 @@ tags
 
 source
 : [[Capital Vol. 2]]
-
-
-## Backlinks
-
--   [[circuit of capital]]

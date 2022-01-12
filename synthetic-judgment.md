@@ -1,7 +1,3 @@
 # synthetic judgment
 
 
-
-## Backlinks
-
--   [[judgment]]

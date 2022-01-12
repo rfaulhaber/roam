@@ -38,8 +38,3 @@ Note that this article was written in March, and much of it is still relevant as
 Many of the things referenced in this article are also mentioned in [[Mask Off]].
 
 The point of this article is to show that crises of capitalism are not exogenous to the system, but endogenous (this point is also made in [[Capital]]).
-
-
-## Backlinks
-
--   [[Deficits, debt and deflation after the pandemic | Michael Roberts Blog]]

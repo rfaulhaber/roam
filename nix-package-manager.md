@@ -5,9 +5,3 @@
 ## Resources
 
 -   [Standard project structure : NixOS](https://www.reddit.com/r/NixOS/comments/8tkllx/standard_project_structure/)
-
-
-## Backlinks
-
--   [[Nix]]
--   [[I Love Arch But GNU Guix Is My New Distro]]

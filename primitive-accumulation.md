@@ -21,8 +21,3 @@ tags
 
 source
 : marx_capital [[Capital Vol. 1]]
-
-
-## Backlinks
-
--   [[Capitalism has eliminated the hungry mob]]

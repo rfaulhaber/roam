@@ -14,8 +14,3 @@ related
 -   The state is a tool of the bourgeoisie, and should be destroyed
 -   Electoralism will eventually lead to a betrayal, as career politicians start to look after themselves
 -   To participate in electoral politics is to validate the state
-
-
-## Backlinks
-
--   [[The Class Struggle | Karl Kautsky]]

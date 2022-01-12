@@ -603,9 +603,3 @@ Closures are handled as such:
 ```
 
 Although this chapter complicates the interpreters written thus far considerably, it does also speed up interpretation.
-
-
-## Backlinks
-
--   [[Dial interpreter third implementation]]
--   [[implementing Lisp scope and closure]]

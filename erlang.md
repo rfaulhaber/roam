@@ -1,7 +1,3 @@
 # Erlang
 
 
-
-## Backlinks
-
--   [[actor model]]

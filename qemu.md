@@ -1,7 +1,3 @@
 # QEMU
 
 
-
-## Backlinks
-
--   [[virtual machine]]

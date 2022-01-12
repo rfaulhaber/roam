@@ -1,7 +1,3 @@
 # Apple
 
 
-
-## Backlinks
-
--   [[HyperCard]]

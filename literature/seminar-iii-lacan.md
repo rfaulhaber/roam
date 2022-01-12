@@ -5,8 +5,3 @@ source
 
 
 ## Notes
-
-
-## Backlinks
-
--   [[quilting point]]

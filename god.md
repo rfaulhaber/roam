@@ -1,7 +1,3 @@
 # God
 
 
-
-## Backlinks
-
--   [[process theology]]

@@ -1,7 +1,3 @@
 # Luhmann
 
 
-
-## Backlinks
-
--   [[Principles]]

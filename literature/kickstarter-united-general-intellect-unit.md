@@ -20,8 +20,3 @@ tags
 -   Kickstarter organizers knew they were going to set a precedent
 -   Managers and business owners are able to organize on company time, unlike workers, example of how the bourgeoisie uses worker power against itself
 -   Managers etc. can leverage business resources as well as the state against workers
-
-
-## Backlinks
-
--   [[20210111]]

@@ -2,8 +2,3 @@
 
 tags
 : 
-
-
-## Backlinks
-
--   [[Anti-Americanism]]

@@ -10,9 +10,3 @@ Social problem: conventional currency, cash, etc. is susceptible to fraud, has n
 Of course, cryptocurrency is just as much susceptible to fraud and centralization as regular currency.
 
 The only solution to social problems are social / political solutions, technology is only auxiliary to that.
-
-
-## Backlinks
-
--   [[technological progress is not linear]]
--   [[Elements of Technology Criticism]]

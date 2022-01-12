@@ -1,7 +1,3 @@
 # utilitarianism
 
 
-
-## Backlinks
-
--   [[virtue ethics]]

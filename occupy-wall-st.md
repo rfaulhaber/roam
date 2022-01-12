@@ -7,9 +7,3 @@ Occupy Wall St. (&ldquo;Occupy&rdquo;) was an ostensibly [[left-wing]] movement 
 
 
 ### [[The 99%]]
-
-
-## Backlinks
-
--   [[The 99%]]
--   [[Anarchist Cybernetics | General Intellect Unit]]

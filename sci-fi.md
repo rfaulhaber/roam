@@ -1,7 +1,3 @@
 # sci-fi
 
 
-
-## Backlinks
-
--   [[Dune]]

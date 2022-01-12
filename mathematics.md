@@ -1,7 +1,3 @@
 # mathematics
 
 
-
-## Backlinks
-
--   [[λ-calculus]]

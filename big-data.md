@@ -5,9 +5,3 @@
 Data collected may include interaction with apps, but also includes personal details as well, and so much so that firms can deduce personal information based purely on your interaction with apps.
 
 A precondition for big data is [[the commodification of data]].
-
-
-## Backlinks
-
--   [[Enter the Dragnet | Logic Mag]]
--   [[Data is not neutral]]

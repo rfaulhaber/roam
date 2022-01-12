@@ -37,8 +37,3 @@ const {a, b} = x;
 
 console.log('a', a, 'b', b);
 ```
-
-
-## Backlinks
-
--   [[Old McCarthy Had a Form]]

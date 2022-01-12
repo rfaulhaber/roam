@@ -1,7 +1,3 @@
 # id
 
 
-
-## Backlinks
-
--   [[superego]]

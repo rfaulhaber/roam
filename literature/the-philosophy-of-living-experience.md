@@ -246,10 +246,3 @@ type
 ## Supplemental
 
 > The problem, says Bogdanov, is that we make a fetish of the part of the total labor process that we happen to do ourselves, taking it to be the key part. We compound this error by imagining the rest of the process, the social whole, even the whole universe, according to metaphors drawn from our own particular labors. He called this substitution. Philosophy, says Bogdanov, is any system of thought that takes an image from a concrete labor process and explains the rest of the world by via substituting metaphors from what is known toward what is unknown. We image the rest on the pattern of the part we know. Thus: “The Lord is my shepherd” is a way of understanding heaven and earth – if one happens to be a shepherd. &#x2014; [Against Social Determinism - Public Seminar](https://publicseminar.org/2013/12/against-social-determinism/)
-
-
-## Backlinks
-
--   [[1. The Materialist Conception of Nature]]
--   [[fetishism]]
--   [[reality is living experience]]

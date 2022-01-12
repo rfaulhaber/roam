@@ -33,8 +33,3 @@ The Bolsheviks were heavily influenced by the works of Kautsky and felt that he 
 The history of the Russian Revolution is not merely a disagreement between insurrectionary politics and electoralism, as some would put it, but a complicated mix of the two.
 
 Lenin, although a famed critic of Kautsky, learned a lot from him as well, and felt that Kautsky wasn&rsquo;t being true to his own word in calling him a &ldquo;renegade&rdquo;.
-
-
-## Backlinks
-
--   [[The Revolutionary Karl Kautsky | Cosmonaut]]

@@ -17,8 +17,3 @@ Additionally, categories adhere to the following conditions:
 
 1.  Unitality: for any morphism in the category \\(X \to Y\\), \\(id\_x \circ f = f = f \circ id\_y#\\)
 2.  Associativity: given morphisms f, g, and h in the category, \\((f \circ g) \circ h = f \circ (g \circ h)\\)
-
-
-## Backlinks
-
--   [[relations]]

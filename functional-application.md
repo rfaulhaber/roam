@@ -24,9 +24,3 @@ Or, consider the following in [[JavaScript]]:
 const add = (x, y, z) => x + y + z;
 console.log(add.apply(null, [1, 2, 3]));
 ```
-
-
-## Backlinks
-
--   [[Lisp in Small Pieces]]
--   [[partial application]]

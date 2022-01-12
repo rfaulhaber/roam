@@ -2,8 +2,3 @@
 
 tags
 : [[cybernetics]]
-
-
-## Backlinks
-
--   [[socialist planning]]

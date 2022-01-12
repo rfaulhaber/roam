@@ -1,7 +1,3 @@
 # Common Lisp
 
 
-
-## Backlinks
-
--   [[EIEIO]]

@@ -5,8 +5,3 @@
 It is, in practice, essentially a get rich quick scheme, and those that benefit from it are the already wealthy.
 
 So-called [[proof of work]] mining is &ldquo;an encoding of the bourgeois labor theory of value.&rdquo; It acts as a means of encoding libertarian politics into software.
-
-
-## Backlinks
-
--   [[can a blockchain be used for socialism?]]

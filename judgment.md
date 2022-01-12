@@ -12,8 +12,3 @@ For [[Kant]] there are four types of judgments:
 |-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | analytic  | A judgment that doesn&rsquo;t require experience to know.                                                                                                 | Cannot exist. Don&rsquo;t need experience to see that predicate is contained in the subject. |
 | synthetic | Causality. If I throw a ball into the air, can I know what will happen regardless of whether or not I&rsquo;ve actually thrown a ball in the aire before? | &ldquo;&rdquo;                                                                               |
-
-
-## Backlinks
-
--   [[synthetic a priori]]

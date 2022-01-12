@@ -10,9 +10,3 @@ Some nations oppress others through [[colonialism]]. Examples include:
 -   The [[United States]] to Native American and African American peoples
     -   See, the [[internal colony]] thesis as it pertains to black people
 -   The English and French in Africa
-
-
-## Backlinks
-
--   [[the question of national liberation]]
--   [[internal colony]]

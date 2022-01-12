@@ -15,8 +15,3 @@ A relation is a function if it satisfies the two following conditions:
 2.  \\(\exists \langle x\_1,y\_1 \rangle, \langle x\_2,y\_2 \rangle \in R\\) holds: \\(x\_1 = x\_2 \Rightarrow y\_1 = y\_2\\)
 
 Like categories and subsequently relations, functions can also be composed.
-
-
-## Backlinks
-
--   [[ACT4E - Session 2 - Connection]]

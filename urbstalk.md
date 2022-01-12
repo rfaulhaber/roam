@@ -33,8 +33,3 @@ on click:
     add 1 to radius
     set radius to 1 - radius
 ```
-
-
-## Backlinks
-
--   [[Project Urbs]]

@@ -5,3 +5,5 @@
 [[Marx]] mostly [[spoke of alienation]] in the sphere of labor. In that sense, alienation ought to be abolished. In this way we can imagine a society where goods, collectively produced, are under the control of those who produce them. Unlike, say, a factory worker, who may not even be able to afford the things they produce, in communism a worker would have complete say over how such commodities are handled. Further, without a [[division of labor]], many more people would be able to partake in various forms of production. This doesn&rsquo;t address other forms of alienation, however.
 
 [[Slavoj Zizek]] says somewhere that he wants to live in a society with only some alienation.
+
+[[What does a world without alienation look like?]]

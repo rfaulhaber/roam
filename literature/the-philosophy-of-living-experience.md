@@ -145,7 +145,7 @@ type
 -   Bogdanov is playing up the interrelations between the physical world and the world in our heads
 -   Scientists and thinkers seek to explain facts. For empiriocriticism this is backwards: phenomena are only known when &ldquo;their interconnectedness and dependence are found and accurately indicated&rdquo;
 -   Functional dependence: when **A** is present, **B** occurs
-    -   sounds like f(A) => B
+    -   sounds like f(A) =&gt; B
 -   Empiriocriticism doesn&rsquo;t seek to &ldquo;explain&rdquo; the world (in causal terms), it views the world as interconnectedness of phenomena
 
 
@@ -155,7 +155,7 @@ type
 -   [[Plato]] defined the dialectic as &ldquo;a conversation of the soul with itself concerning any subject whatever&rdquo;
 -   The dialectical process is a form of organizing character
 -   The dialectical process, broadly, is two opposite tendencies whose antagonistic relationship develops a new organizational model containing each part
-    -   Health / illness => immunity, two groups going to war and creating a treaty, etc.
+    -   Health / illness =&gt; immunity, two groups going to war and creating a treaty, etc.
 -   The dialectical process has its origins in the Milesian school
 -   The formal originator of the dialectical means of thinking in the west was [[Heraclitus the Obscure]]
 -   Heraclitus thought that fire was the basis of all things
@@ -221,7 +221,7 @@ type
     > 
     > The interconnectedness of the elements of experience in cognition has as its basis the correlation of the elements of social activity in the labor process.
     
-    This sounds like [[Sartre]]&rsquo;s &ldquo;existence precedes essence.&rdquo;
+    This sounds like [[Sartre]]&rsquo;s &ldquo;[[existence precedes essence]].&rdquo;
 
 
 ### Substitution
@@ -246,3 +246,4 @@ type
 ## Supplemental
 
 > The problem, says Bogdanov, is that we make a fetish of the part of the total labor process that we happen to do ourselves, taking it to be the key part. We compound this error by imagining the rest of the process, the social whole, even the whole universe, according to metaphors drawn from our own particular labors. He called this substitution. Philosophy, says Bogdanov, is any system of thought that takes an image from a concrete labor process and explains the rest of the world by via substituting metaphors from what is known toward what is unknown. We image the rest on the pattern of the part we know. Thus: “The Lord is my shepherd” is a way of understanding heaven and earth – if one happens to be a shepherd. &#x2014; [Against Social Determinism - Public Seminar](https://publicseminar.org/2013/12/against-social-determinism/)
+

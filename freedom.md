@@ -1,13 +1,10 @@
 # freedom
 
-I will probably spend the rest of my life trying to fill this note out.
+Initially, I wrote that I would spend the rest of my life trying to answer the question of what freedom is. However, now, I think there are a few approaches to answering this question.
 
-What is freedom?
+I would consider freedom to ultimately be a situation wherein everyone is capable of living without [[domination]]. At some point in human history, humans were free. Now, we are not.
 
+However, most would consider freedom and [[liberty]] mutually interchangeable. As a communist, I am uninterested in liberty, as liberty is the right to do things within the context of a liberal [[state]]. Liberty might therefore be considered a subset of freedom.
 
-## Freedom is freedom from care or worry
+Freedom, if defined as freedom from domination, then, is something broader.
 
-Being able to live your life care-free, without worrying day-to-day where, say, your next meal is coming from, as is in the case in [[capitalism]], is a sort of freedom. Billionaires are able to live such lives to some degree, though even though money is not a concern for them, they are still constrained by the logic of capital.
-
-
-## Freedom is the ability to do what you wish

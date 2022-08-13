@@ -20,3 +20,4 @@ movement-image
 Aside: [[Sergei Eisenstein]] made the connection between Griffiths and his racism and the form in which he made movies.
 
 Most of this episode deals with film.
+

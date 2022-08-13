@@ -31,3 +31,4 @@
 -   The way the US is handling the crisis is similar to how Japan handled their slowing economy
     -   (When? How?)
 -   Inflation will likely rise over the course of the next year by between 3% (Roberts&rsquo; conservative estimate) and 6% (an estimate linked to by Roberts)
+

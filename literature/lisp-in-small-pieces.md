@@ -15,7 +15,6 @@ Starts on p. 19
 -   a variable where no binding form qualifies it (such as variables defined in `let`)
 -   the opposite of a free variable, a variable defined in a qualified scope
 -   The basic function signature for `eval` would be (in Scheme syntax):
-    
     ```racket
       (define (eval expr env)
         ; ...
@@ -27,7 +26,6 @@ Starts on p. 19
 -   In Scheme this function could be called `symbol->variable`
 -   when an expression does not have a dotted pair and when that expression is a symbol, i.e. a symbol&rsquo;s representation is its own value
 -   If we get an atom in `eval`, we check if it&rsquo;s a variable first, and if not we check to see if it&rsquo;s a Lisp data type
-    
     ```racket
       #lang racket
       (define (atom? x)
@@ -54,7 +52,6 @@ Starts on p. 19
     -   [[Clojure]] has `true`, `false`, and `nil`
     -   [[Emacs Lisp]] has `t` and `nil`
 -   `progn` evaluates a sequential list of forms
-    
     ```racket
       #lang racket
       (define (eprogn exprs env)
@@ -67,7 +64,6 @@ Starts on p. 19
     ```
 -   a group of forms
 -   A more precise way of describing [[functional application]] in terms of Lisp is that it&rsquo;s simply the case in `eval` when a list has no special operator as its first term
-    
     ```racket
       #lang racket
       ; beginning ommitted
@@ -85,7 +81,6 @@ Starts on p. 19
     -   `invoke` here applies its first argument (a function) to its second argument (list of arguments for the function)
 
 -   An implementation of `lookup`
-    
     ```racket
       #lang racket
       (define (lookup id env)
@@ -97,7 +92,6 @@ Starts on p. 19
     ```
 
 -   An implementation of `update!`:
-    
     ```racket
       #lang racket
       (define (update! id env value)
@@ -110,7 +104,6 @@ Starts on p. 19
     ```
 
 -   `env` is a composite abstract type
-    
     ```racket
       (define (extend env vars values)
         (cond ((pair? variables)
@@ -126,7 +119,6 @@ Starts on p. 19
     ```
 
 -   The book suggests that the easiest way to define functions is to use the functions of the implementation language
-    
     ```racket
       (define (invoke fn args)
         (if (procedure? fn)
@@ -137,7 +129,6 @@ Starts on p. 19
     -   This may be easy with Scheme but not so easy with a language like Rust
 
 -   `make-function` definition
-    
     ```racket
       #lang racket
       (define (make-function vars body env)
@@ -155,7 +146,6 @@ Starts on p. 19
     -   Again, JavaScript `var`
 -   when one variable hides another because they both have the same name
     -   A bug in early Lisp, this returned `(2 3)`
-        
         ```racket
             #lang racket
             (let ((a 1))
@@ -165,7 +155,6 @@ Starts on p. 19
         ```
 
 -   property a language has when substituting an expression in a program for an equivalent expression that does not change the behavior of the program
-    
     ```racket
       #lang racket
       (eq?
@@ -189,14 +178,12 @@ Starts on p. 19
 -   anything that can be stored in a variable
 -   The Lisp2 interpreter implemented in this book uses a separate `evaluate` function for functions, called `f.evaluate`
 -   A Lisp should be able to support function application, making code like this possible:
-    
     ```racket
       #lang racket/base
       ((if #t + *) 3 4)
     ```
     
     -   note: this code does not work in Emacs Lisp
-        
         ```elisp
             ((if t + *) 3 4)
         ```
@@ -204,7 +191,6 @@ Starts on p. 19
     
     > To summarize these problems, we should say that there are calculations belonging to the parametric world that we want to carry out in the function world, and vice versa. More precisely, we may want to pass a function as an argument or as a result, or we may even want the function that will be applied to be the result of a lengthy calculation. (p. 36)
 -   We need a function `funcall` that applies its first argument to its other arguments. In Racket:
-    
     ```racket
       (define (funcall . args)
         (if (> (length args) 1)
@@ -214,7 +200,6 @@ Starts on p. 19
 -   The current problem with this implementation is that it would treat `+` or `*` as variables and not functions
     -   That is, we want: `(if condition (+ 3 4) (* 3 4))` ≡ `(funcall (if condition (function +) (function *)) 3 4)`
 -   We now need a `function` case in `evaluate`, which will convert the name of a function into a functional value
-    
     ```racket
       #lang racket/base
       ;...
@@ -226,7 +211,6 @@ Starts on p. 19
 -   `flet`, _functional let_, allows us to extend the function environment, in the same way that `let` allows us to extend the environment of variables
     -   its syntax is similar to `let`, except each binding takes an extra argument that is a function body
 -   `flet` would extend the `f.evaluate` as such:
-    
     ```racket
       #racket
       ; ...
@@ -241,19 +225,16 @@ Starts on p. 19
                      (cadr e)))))
     ```
 -   `flet` lets us write functions like:
-    
     ```racket
       (flet ((square (x) (* x x)))
             (lambda (x) (square (square x))))
     ```
 -   Once the evaluator can handle function terms, we could write functions in such a way that, for example, integers could be used as accessors to lists
-    
     ```racket
       (2 '(foo bar baz quux)) ; -> baz
       (-2 '(foo bar baz quux)) ; -> (baz quux)
     ```
 -   Alternatively we could apply a list of functions
-    
     ```racket
       ((list + - *) 5 3) ; -> (8 2 15)
       ; equivalent to:
@@ -274,14 +255,12 @@ Starts on p. 19
 -   A Lisp implementation should implement as few special forms as possible
 -   A Lisp that implements multiple namespaces for values needs to have mechanisms to distinguish them. The author goes on a long divergence about dynamic binding, and how it explicitly differs from lexical binding
 -   A problem we haven&rsquo;t run into yet is that of recursion. In our toy interpreters, consider the following:
-    
     ```racket
       #lang racket
       (set! fact (lambda (n)
                    (if (= n 1) 1
                        (* n (fact - n 1)))))
     ```
-    
     How can a value reference itself like this?
 -   In order to make that definition of `fact` legal we need to handle values that don&rsquo;t exist yet
 -   Lisp assumes that at most only one global variable can exist with a given name, and that variable is visible everywhere
@@ -289,7 +268,6 @@ Starts on p. 19
 -   A function references itself
 -   Two or more functions recursively reference each other
     -   For example, `odd?` and `even`
-        
         ```racket
             #lang racket
             (define (even? n)
@@ -392,7 +370,7 @@ Starts on p. 19
 ```
 
 
-## 3. Escape & Return: Continuations
+## 3. Escape &amp; Return: Continuations
 
 -   Continuations come in two forms:
     -   **Continuation:** abstract representation of control state
@@ -403,7 +381,6 @@ Starts on p. 19
             -   [Beautiful Racket: Continuations](https://beautifulracket.com/explainer/continuations.html)
     -   **Current continuation:** a continuation that can be derived from the current state of the program
 -   continuations were implemented as a kind of Lisp equivalent for `goto`
-    
     ```common-lisp
       (defun fact (n)
         (prog (r)
@@ -418,7 +395,6 @@ Starts on p. 19
 -   continuations can be used to define throw/catch
 -   Aside: a Lisp interpreter is essentially a function mapping forms and environment to an output
 -   For the interpreter used in this chapter, we use a function called `define-generic`, which would be used in the following manner:
-    
     ```racket
       (define-generic (invoke (f) v r k)
         (wrong "not a function" f r k))
@@ -427,7 +403,6 @@ Starts on p. 19
     -   I wonder if it&rsquo;s worth defining such a function in Rust code
 
 -   `evaluate` for this interpreter is also relatively simple:
-    
     ```racket
       ; e = expression
       ; r = env
@@ -455,7 +430,6 @@ Starts on p. 19
 ## 4. Assignment and Side Effects
 
 -   The problem of assignment is hard, because Lisp code can have ambiguities with regards to what should be allowed
-    
     ```racket
       (let ((name "Nemo"))
         (set! winner (lambda () name))
@@ -464,12 +438,10 @@ Starts on p. 19
         (set-winner! "Me")
         (winner))
     ```
-    
     What should be returned from this? Should `set-winner!` be allowed to update `name`?
 
 -   A [box](https://docs.racket-lang.org/reference/boxes.html?q=box#%28def._%28%28quote._~23~25kernel%29._box%29%29) is a data structure in Lisp that allows for mutable references
 -   Implementing a box is apparently trivial
-    
     ```racket
       #lang racket
       (define (make-box value)
@@ -493,7 +465,6 @@ Starts on p. 19
 -   The global environment could be thought of as a giant `let` form that wraps the entire program
 -   one where references to all named values must exist at the time of reference
 -   note: in Racket, `letrec` is used when a `let` binding requires two mutually used definitions, like so:
-    
     ```racket
       (letrec ([is-even? (lambda (n)
                            (or (zero? n)
@@ -503,7 +474,6 @@ Starts on p. 19
                                (is-even? (sub1 n))))])
         (is-odd? 11))
     ```
-    
     `define` makes this superfluous, however
 
 
@@ -544,11 +514,11 @@ A **redex** is a reducible expression.
 ### Chapter notes
 
 -   Each part of a Lisp program could be thought of as a function (aside: like in [[category theory]]?)
-    -   **Environment:** Identifier -> address
-    -   **Memory:** Address -> value
+    -   **Environment:** Identifier -&gt; address
+    -   **Memory:** Address -&gt; value
     -   **Value:** Function | Boolean | Integer | Pair | &#x2026;
-    -   **Continuation :** Value x Memory -> Value
-    -   **Function:** Value x continuation x memory -> value
+    -   **Continuation :** Value x Memory -&gt; Value
+    -   **Function:** Value x continuation x memory -&gt; value
 -   \\(\forall x, f(x) = g(x) \Rightarrow (f = g)\\)
 -   I&rsquo;m skipping this chapter because I don&rsquo;t know lambda calculus
 
@@ -603,3 +573,4 @@ Closures are handled as such:
 ```
 
 Although this chapter complicates the interpreters written thus far considerably, it does also speed up interpretation.
+

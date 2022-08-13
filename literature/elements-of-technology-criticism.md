@@ -23,3 +23,4 @@ source
 Modern technology (specifically high tech) is just an extention of the logic of capitalism, and everything that&rsquo;s bad about high tech is a problem with capitalism.
 
 Overall, I feel that this is a good little post about the role of technology in capitalism. I take some issue with point 3 for not being specific enough, but otherwise I think it&rsquo;s perfectly agreeable.
+

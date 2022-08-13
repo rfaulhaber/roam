@@ -10,7 +10,7 @@ source
 ## Notes
 
 -   Example: electrical distribution network
-    -   Power plants -> high voltage nodes -> low voltage nodes -> consumers
+    -   Power plants -&gt; high voltage nodes -&gt; low voltage nodes -&gt; consumers
     -   Can be represented as a directed graph
 -   A set X to a set Y is a subset of \\(X \times Y\\) (cartesian product)
     -   Example: Given \\(X = {x\_1,x\_2,x\_3}, Y = {y\_1,y\_2,y\_3,y\_4}\\), relation \\(R \subseteq X \times Y\\) is given by \\(R = \\{ \langle x\_1,y\_1 \rangle, \langle x\_2,y\_3 \rangle, \langle x\_2,y\_4 \rangle \\}\\)
@@ -50,18 +50,19 @@ source
     -   &ldquo;Less than or equal&rdquo; is also an endorelation
 -   An endorelation is **symmetric** if:
     -   \\(\forall x,x' \in X: \langle x,x' \rangle \in R \Leftrightarrow \langle x',x \rangle \in R\\)
-    -   Example: x1 -> x2 and x2 -> x1
+    -   Example: x1 -&gt; x2 and x2 -&gt; x1
     -   Example: The relation &ldquo;less than or equal&rdquo; on all natural numbers is not symmetric
 -   An endorelation is **relfexive** if:
     -   \\(\forall x \in X : \langle x,x \rangle \in R\\)
     -   Example: less than or equal on all natural numbers in reflexive
-        -   n <= n is reflexive
+        -   n &lt;= n is reflexive
 -   An endorelation is **transitive** if:
     -   \\(\langle x,x' \rangle \in R\\) and \\(\langle x',x'' \rangle \in R \Rightarrow \langle x,x'' \rangle \in R\\)
     -   &ldquo;Less than or equal&rdquo; is transitive on all natural numbers
-        -   l <= m and m <= n -> l <= n
+        -   l &lt;= m and m &lt;= n -&gt; l &lt;= n
     -   This property is reminiscent of composition in a category
 -   An **equivalence relation** is an endorelation that is symmetric, relfexive, and transitive
     -   Notation: \\(x \sim x'\\) if \\(\langle x,x' \rangle \in R\\)
 -   **Partition** of set X is a collection of subsets which are disjoint pairwise
 -   Category theory formalizes different notions and degrees of sameness
+

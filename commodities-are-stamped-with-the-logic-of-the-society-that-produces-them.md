@@ -7,3 +7,4 @@ For example, moving pictures were invented with the intention of being able to t
 All commodities, as are all products throughout society, are stamped with this kind of logic.
 
 The task for future societies would then be to create products that reduce [[alienation]] and oppression, and otherwise enhance freedom as much as possible.
+

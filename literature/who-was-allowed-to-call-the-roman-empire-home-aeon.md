@@ -15,3 +15,9 @@ In spite of that, the [[Roman Empire]] was a wildly diverse place: the empire im
 In conquering Europe, Rome caused the histories of many of the people it conquered lost, integrating them into the empire.
 
 Rome may not have had a concept of [[race]] or [[ethnicity]] like we do today, though it&rsquo;s clear that there was some concept of ethnicity as the Romans would discriminate based on it.
+
+
+## Refs
+
+-   https://aeon.co/essays/who-was-allowed-to-call-the-roman-empire-home
+

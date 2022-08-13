@@ -27,3 +27,4 @@ This to me is the correct solution.
 The construction of a nation state is merely a stopping point on the road to communism. As mentioned above, it would at least do away with the _colonial_ oppression of the Palestinians.
 
 To me, this is most analogous to what the [[1905 Russian Revolution]] is to the [[1917 October Revolution]].
+

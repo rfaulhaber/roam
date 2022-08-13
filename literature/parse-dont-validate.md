@@ -50,3 +50,9 @@ In practice, parsing without validation looks like focusing on [[datatypes]]. Sp
 2.  Push the burden of proof upward as far as possible, but no further.
 
 Alternatively, &ldquo;write functions on the data representation you wish you had, not the data representation that you are given.&rdquo;
+
+
+## Refs
+
+-   https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
+

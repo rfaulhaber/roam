@@ -107,3 +107,4 @@ begin_game first_scene
 actions:
 "foo" -> end_game
 ```
+

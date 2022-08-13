@@ -85,3 +85,4 @@ The pandemic is likely to cause a reconfiguration of capital, much like it does 
 -   We already seem to be in a new Cold War with China
 -   2016 was the signal year of reaction against the liberal center globally, it would seem
 -   Given the above, class war may be the most relevant struggle in the future (god willing!)
+

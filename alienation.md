@@ -29,3 +29,4 @@ Alienation was also seen for Hegel as the separation of man from God, and that t
 ## Misc
 
 [[Slavoj Zizek]] says somewhere that in [[communism]] he wants just &ldquo;an acceptable amount of alienation.&rdquo;
+

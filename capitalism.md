@@ -22,3 +22,4 @@ In addition, capitalism displays many other unique characteristics which follow 
 
 
 ## What comes after capitalism?
+

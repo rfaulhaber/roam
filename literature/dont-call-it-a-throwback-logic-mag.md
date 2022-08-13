@@ -15,3 +15,4 @@ Companies like 23andMe sell genetic data to drug manufactuerers the same way Goo
 > Vertex Pharmaceuticals, for example, used genetic sequence data derived from cystic fibrosis patients, which they got from the nonprofit Cystic Fibrosis Foundation. Vertex incorporated and recruited patients through that avenue, sequenced their genomes, and then refined the development of this new drug—and then sold it back to those exact same people for $300,000 dollars a year.
 
 The hot thing in the industry now is using AI to try and predict things like cancerous mutations, but this is worthless if it&rsquo;so only trained on the DNA of white people.
+

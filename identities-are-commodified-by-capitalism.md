@@ -19,3 +19,4 @@ There are a couple of lessons to be learned:
 
 1.  Identities in themselves are not radical
 2.  Political ideologies must work to avoid falling into this trap of commodification
+

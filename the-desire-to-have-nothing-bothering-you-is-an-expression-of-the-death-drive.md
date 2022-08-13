@@ -5,3 +5,4 @@ Neil, in his podcast [on negativity](https://gorman.transistor.fm/episodes/tgl-0
 And on this, the [[Buddha]] and [[Freud]] agree: life is struggle.
 
 Conversely, we also have a desire to work towards what the best version of ourselves is (by removing [[lack]]), and that struggle creates [[jouissance]].
+

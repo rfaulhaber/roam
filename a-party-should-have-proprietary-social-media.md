@@ -8,3 +8,4 @@ This idea comes from [this episode](https://regrettablecentury.buzzsprout.com/22
 Should a hypothetical communist party have its own proprietary social media for organizing? Access to this form of social media could be granted and revoked with party membership.
 
 This seems like a possible vector for abuse. Who moderates it? What would stop party heads from just deleting posts they don&rsquo;t like?
+

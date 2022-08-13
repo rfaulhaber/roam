@@ -1,7 +1,7 @@
 # Automation and the Future of Work
 
 source
-: benanav_2020
+: cite:benanav<sub>2020</sub>
 
 tags
 : [[automation]] [[artificial intelligence]]
@@ -176,3 +176,4 @@ tags
     > The successful organization of a post-scarcity world would require that its denizens solve, to their satisfaction, the problems posed by the twentieth century’s socialist calculation debates. They would do so with the tools of the twenty-first century: utilizing digital technologies to coordinate their needs and activities by designing algorithms—which process data and present alternatives—and protocols—which structure decisions about alternatives—that could be further modified and adapted over time in light of experience. Individuals would have to be able to use digital applications to articulate their needs and to transmit these to associations, while associations, in turn, would need to be able both to allocate resources among themselves and to figure out how to make do with the resources they are able to acquire, in a way that was fair and rational. Efficiency would no longer be an overriding goal of production, but producers would still have to be able to make reasonable choices among production techniques, based on the ease with which they can access different sorts of supplies. It would have to be possible, as well, to hold producers accountable were they to fail to meet democratically determined social standards. Again, there is likely to be no single best way to deal with these crucial problems.28
 -   &ldquo;Of course, the realm of freedom is about having time for both socializing and solitude, for engaging in hobbies and doing nothing at all—“/rien faire comme une bête/, lying on water and looking peacefully at the sky.”30 Frankfurt School critical theorist Theodor Adorno’s phrase is suggestive of a world in which material dispossession and the existential insecurity to which it gives rise have been universally abolished.&rdquo;
 -   &ldquo;Without a clear vision of this coming world, it is easy to get lost along the way.&rdquo;
+

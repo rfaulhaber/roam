@@ -19,3 +19,4 @@ source
 -   The author argues that [[China]] is a semi-peripheral country in the capitalist world order
     -   See also: [[is china imperialist?]]
 -   The author argues that if China is to become imperialist it would mean a dramatic increase in value transfer from the periphery
+

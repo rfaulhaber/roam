@@ -19,3 +19,4 @@ The following bytecode would increment the register three times, decrememnt once
 The benefit of this approach is twofold: it&rsquo;s portable, and it allows for faster interpretation. A [[Lisp]] or Python benefits from this.
 
 Bytecode is used in more than one [[way to run code]].
+

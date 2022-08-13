@@ -10,3 +10,4 @@ One could categorize each response into a few camps:
 4.  The nation is a specific unit in the goal to organize socialism. There is no socialism without a nation.
 
 This question is far from answered, but in the contemporary left, [[Lenin]]&rsquo;s position ([[oppressed/oppressor nations]]) seems to have won out, for better or worse.
+

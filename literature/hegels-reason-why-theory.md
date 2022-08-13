@@ -19,3 +19,4 @@ source
 [[Hegel]]&rsquo;s entire idea about reason is similar to the [[observer effect]]: that _you_ make a difference upon the world simply by observing it. He believes that we perform experiments with the purpose of stripping away our sensability from our insight, with the hope of arriving at a universal law, and that that&rsquo;s his critique of induction.
 
 > You think you&rsquo;re interested in quasars but you&rsquo;re really interested in subjectivity! &#x2014; Todd McGowan
+

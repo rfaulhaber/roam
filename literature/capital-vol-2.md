@@ -4,7 +4,7 @@ tags
 : [[Marx]] [[political economy]]
 
 source
-: capital_vol_2
+: cite:capital<sub>vol</sub><sub>2</sub>
 
 type
 : literature
@@ -423,7 +423,7 @@ type
 
 #### Diagram     :ATTACH:
 
-([link](Example1(2).jpg))
+([[link]])
 
 
 ### Second Example
@@ -758,3 +758,4 @@ See also [[Marx&rsquo;s Criticism of Adam Smith]]
     2.  Buys labor-power and resells its commodities to its own workers
 
 Somewhere along the way I gave up trying to follow this chapter super closely.
+

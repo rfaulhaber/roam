@@ -31,3 +31,9 @@ Finally, it&rsquo;s worth adding some kind of &ldquo;main&rdquo; function:
 (when (foo-running-as-script-p)
   (main))
 ```
+
+
+## Refs
+
+-   https://danpetrov.xyz/emacs/lisp/programming/2022/01/15/creating-universal-emacs-lisp-packages.html
+

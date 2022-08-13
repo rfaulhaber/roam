@@ -64,3 +64,4 @@ An aside by the hosts: the [[Sokal affair]] doesn&rsquo;t disprove theory or pos
 The purpose of theory, as the hosts put it, is to put forward a speculative idea that may be proven wrong.
 
 The hosts mention that even if you knew how [[consciousness]] was formed it wouldn&rsquo;t tell you anything about consciousness itself. It&rsquo;s like [[film theory]] in that someone can tell you how a projector works but it doesn&rsquo;t tell you anything about the nature of film beyond some technical elements.
+

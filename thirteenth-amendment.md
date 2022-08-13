@@ -11,3 +11,4 @@ The Thirteenth Amendment to the [[Constitution of the United States]] reads as s
 > Congress shall have power to enforce this article by appropriate legislation.
 
 This amendment [[abolished slavery in the United States]].
+

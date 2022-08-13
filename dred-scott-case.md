@@ -7,3 +7,4 @@ Dred Scott, a slave, lived for two years in a free state. He argued that, by vir
 The Supreme Court decided otherwise. The Dred Scott decision ruled that people of African decent were not the &ldquo;citizens&rdquo; referred to in the [[Constitution]] and as such had no such rights, not even the right to sue for his freedom.
 
 The Dred Scott case was eventually overruled by the Thirteenth and Fourteenth Amendments to the Constitution.
+

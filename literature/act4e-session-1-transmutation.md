@@ -35,6 +35,7 @@ source
         -   Objects: a collection of currencies
         -   Morphisms: currency exchanges
         -   Identity morphism: 1 USD = 1 USD
-        -   Composition of morphisms: Could convert from USD -> CHD -> EURO
+        -   Composition of morphisms: Could convert from USD -&gt; CHD -&gt; EURO
 -   a subset of a category
 -   \\(X -> Y\\) and \\(Y -> X\\) are opposite categories of one another
+

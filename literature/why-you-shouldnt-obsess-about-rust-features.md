@@ -11,3 +11,4 @@ source
 The author managed to not need features, and instead was able to write a `Config` struct.
 
 Features are a big deal and you should avoid using them unless you absolutely need conditional compilation.
+

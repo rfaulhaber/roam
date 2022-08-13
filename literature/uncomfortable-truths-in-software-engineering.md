@@ -27,3 +27,9 @@ This article is mostly the author&rsquo;s opinion and I have selectively copied 
 > -   Goddamn I am so tired of “the problem is CAPITALISM” takes and they will never stop
 
 -   Aside: the problem at the end of the day _is_ [[capitalism]], however the people who say that &ldquo;the problem is capitalism&rdquo; are lacking a more nuanced point. Of course the problem is capitalism, but this doesn&rsquo;t say anything. The problem is the fact that so much important software is expected to be free of cost. Large companies like Amazon or Microsoft can simply step in and use [[Linux]] for free because they can. I&rsquo;m not sure what the exact solution is, but I think open source maintainers should consider organizing and demanding payment for corporate use. (see: [[arguing that the problem is capitalism]])
+
+
+## Refs
+
+-   https://buttondown.email/hillelwayne/archive/uncomfortable-truths-in-software-engineering/
+

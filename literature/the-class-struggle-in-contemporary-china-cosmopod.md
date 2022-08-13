@@ -27,3 +27,9 @@ During the 90s and the 00s there was a massive state effort to remove people fro
 Since the 90s there has been a growing current called the [[Chinese New Left]], who characterized themselves by criticizing the privatization reforms and nationalist (i.e. anti-imperialist and anti-American) sentiments. These are also &ldquo;reformists&rdquo; in the sense they want to steer the Chinese state back into something that reassembles the [[Mao Zedong]] era.
 
 There is another current since the 2010s that rejects the New Left and feels the goal should be to do away with the party and the state. They also see China as an imperialist power as well.
+
+
+## Refs
+
+-   https://cosmopod.libsyn.com/the-class-struggle-in-contemporary-china-w-yueran-zhang
+

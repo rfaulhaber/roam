@@ -5,3 +5,4 @@ tags
 
 source
 : [Critical Confusion - Asad Haider](https://asadhaider.substack.com/p/critical-confusion)
+

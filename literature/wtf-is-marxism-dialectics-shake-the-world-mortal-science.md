@@ -15,3 +15,4 @@ tags
 -   Derrick remarks that a lot of state activity is the battling between various factions of the bourgeoisie rather than class antagonisms
 -   &ldquo;Communism is the removal of [[alienation]] from the productive realm&rdquo;
 -   Classical dialectics is about creating definitions from a description or discussion so as to move to axiomatic logic
+

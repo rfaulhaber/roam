@@ -12,38 +12,32 @@ Some of my examples are written in Emacs Lisp, as at the time I hadn&rsquo;t ins
 -   a list is a series of atoms, surrounded by parentheses
 -   an atom or a list
 -   `car` retrieves first element of list
-    
     ```emacs-lisp
       (car '(123))
     ```
 
 -   `cdr` retrieves everything besides the first element of a list
-    
     ```emacs-lisp
       (cdr '(a b c))
     ```
 
 -   `cons` adds an atom to the front of a list
-    
     ```emacs-lisp
       (cons 100 '(a b c))
       (cons '(a b) '(c d))
     ```
 
 -   `null` tests for empty lists
-    
     ```emacs-lisp
       (null ())
     ```
 
 -   `atom` tests for atoms
-    
     ```emacs-lisp
       (atom 123)
     ```
 
 -   `eq` tests equality for non-numeric atoms
-    
     ```emacs-lisp
       (eq 'a 'b)
     ```
@@ -81,7 +75,6 @@ Some of my examples are written in Emacs Lisp, as at the time I hadn&rsquo;t ins
 -   In Scheme (and other Lisps?) a \* suffix means &ldquo;repeat this throughout the list.&rdquo; More specifically, it means to recur on the `car` of the list.
     
     For example:
-    
     ```scheme
       (rember* 'sauce ((tomato sauce) bean sauce)) ;; => ((tomato) bean)
       (rember 'sauce ((tomato sauce) bean sauce)) ;; => ((tomato) bean sauce)
@@ -97,7 +90,6 @@ The Seventh Commandment
 : Recur on the _subparts_ that are of the same nature
 
 An attempt at `value` (for only `+`) in Emacs Lisp:
-    
     ```emacs-lisp
       (defun my-value (nexp)
         (cond
@@ -110,3 +102,4 @@ An attempt at `value` (for only `+`) in Emacs Lisp:
 
 The Eighth Commandment
 : Use help functions to abstract from representations
+

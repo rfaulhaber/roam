@@ -7,3 +7,4 @@ Nix refers to:
 -   The [[operating system]]
 
 The term &ldquo;nix&rdquo; in general can also refer to the [[Unix]] family of operating systems.
+

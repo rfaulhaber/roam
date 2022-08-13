@@ -5,3 +5,4 @@ A philosophy that contends that the real world doesn&rsquo;t exist, and that all
 The philosophy was first seriously postulated by [[George Berkeley]].
 
 It stands in opposition to, among other things, [[materialism]].
+

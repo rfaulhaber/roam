@@ -1,7 +1,7 @@
 # The Class Struggle | Karl Kautsky
 
 source
-: kautsky_class_struggle_ch_5
+: cite:kautsky<sub>class</sub><sub>struggle</sub><sub>ch</sub><sub>5</sub>
 
 tags
 : [[Karl Kautsky]]
@@ -34,3 +34,4 @@ The preface of this piece calls this piece a canonical entry into [[Orthodox Mar
 Kautsky believes that the socialist struggle must be carried on by a union of socialists and labor organizers.
 
 Kautsky believes in the international character of revolution.
+

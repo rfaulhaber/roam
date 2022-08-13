@@ -13,3 +13,4 @@ source
 -   Derek said that confining yourself organizing [[nation states]] will result in either social democracy and [[nationalism]]. Communist political work must be international
 -   Derek said that [[Stalinists]] are [[rightists]] who you self-respecting leftists should not be in coalition with
 -   Derek said that if you don&rsquo;t move beyond the nation state form, you&rsquo;ll end up having the revolution subsumed and the revolutionaries replace the ruling class in some manner or another, leaving a half-finished revolution
+

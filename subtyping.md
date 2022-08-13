@@ -9,10 +9,10 @@ Subtyping is transitive, meaning that if A ≼ B ≼ C, then A ≼ C.
 Assuming A ≼ B,
 
 covariance
-: when (T -> A) ≼ (T -> B)
+: when (T -&gt; A) ≼ (T -&gt; B)
 
 contravariance
-: when (B -> T) ≼ (A -> T)
+: when (B -&gt; T) ≼ (A -&gt; T)
 
 bivariant
 : both covariant and contravariant
@@ -25,3 +25,4 @@ Generally, you want functions to be covariant in their return type and contravar
 ## References
 
 1.  [What are covariance and contravariance? | Stephan Boyer](https://www.stephanboyer.com/post/132/what-are-covariance-and-contravariance)
+

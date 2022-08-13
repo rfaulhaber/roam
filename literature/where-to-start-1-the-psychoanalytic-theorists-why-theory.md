@@ -71,3 +71,4 @@ The episode recommends all of Copjec&rsquo;s works, but in particular:
 -   The Call of Character: Living a Life Worth Living
 -   Between Levinas and Lacan: Self, Other, Ethics
 -   The Ethics of Opting Out
+

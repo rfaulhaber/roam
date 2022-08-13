@@ -7,3 +7,4 @@ For example, you can take it on faith that the world is round because you can ma
 I believe this is what [[Hegel]] and [[Bogdanov]], in some way or another, believed as well.
 
 See also: [[reality is living experience]].
+

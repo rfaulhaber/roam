@@ -27,3 +27,4 @@ console.log("what happens when we call o?", o.hello());
 ```
 
 Prototype inheritence is called a [[prototype chain]].
+

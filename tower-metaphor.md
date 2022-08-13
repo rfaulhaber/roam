@@ -7,3 +7,4 @@
 > Lacan was a serious reader of Freud. Lacan did the work necessary to understand the radicality of the praxis of psychoanalysis that Freud had created. Additionally, Lacan was able to identify the most important concepts Freud used to build psychoanalysis. After Lacan had done the work to understand what Freud built, he started to teach other people how to understand what Freud built. As Lacan did this, he would not just repeat what Freud had written! Lacan would rephrase, redescribe, paraphrase, and elaborate on what Freud had left behind. In short: Lacan was engaged in the act of re-creating what Freud had previously created. I believe this can be metaphorically understood as removing the old decaying conceptual bricks Freud had laid and replacing them with newer (stronger!) brick that Lacan had made.
 > 
 > &#x2014; Neil Gorman, in a newsletter
+

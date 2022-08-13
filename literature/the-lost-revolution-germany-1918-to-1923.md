@@ -234,3 +234,4 @@ Ultimately the ruling class of Germany betrayed the SPD for the Nazi party.
 The KPD, rather than continue revolution, aligned themselves with the SPD.
 
 > The degeneration had come full circle. The whole world has had to pay the price.
+

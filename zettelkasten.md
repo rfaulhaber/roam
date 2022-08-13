@@ -31,3 +31,4 @@ I need to start using org-roam more for personal notes as well as knowledge note
 -   Connect literature notes (notes on books, articles, etc.) with ideas and reflections
 -   Create reflection, &ldquo;argument&rdquo;, notes. Use the connection between notes to generate new ideas (see &ldquo;permanent notes&rdquo;)
 -   Note to self: you&rsquo;re already doing this! Notes like &ldquo;Marx&rdquo; etc. are permanent notes! You just need to be willing to actually fill them out and notice when they interest you! :)
+

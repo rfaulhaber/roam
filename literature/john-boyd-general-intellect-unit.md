@@ -27,3 +27,4 @@ This contains my collected notes on the three part series by [[General Intellect
 -   http://generalintellectunit.net/e/082-john-boyd-part-1-destruction-and-creation/
 -   http://generalintellectunit.net/e/084-john-boyd-part-3-winning-and-losing/
 -   http://generalintellectunit.net/e/083-john-boyd-part-2-patterns-of-conflict/
+

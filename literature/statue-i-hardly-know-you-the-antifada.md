@@ -18,3 +18,4 @@ Unfortunately I didn&rsquo;t manage to take enough notes while listening to this
 -   Nick says that Native American populations have high amounts of class consciousness due to the oppression they&rsquo;ve faced
 -   Nick says that, whatever form decolonization takes, it cannot involve the [[Westphalia model of nation states]]
     -   He also believes it must involve moving beyond capitalism
+

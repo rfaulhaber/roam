@@ -9,3 +9,4 @@ This refers specifically to program details in the [[transition to communism]]. 
 -   Ensuring the survival of humanity through [[climate change]].
 -   Preventing mass death
 -   The [[abolition of money]]
+

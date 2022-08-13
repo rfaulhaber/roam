@@ -10,3 +10,4 @@ Data _qua_ data is not neutral in a few ways:
 1.  Data itself and understanding data is socially mediated.
 2.  Data collection is biased and distorted. There is no fundamentally neutral way to collect data for the same reasons you cannot escape society.
 3.  Data usually requires specialist interpretation
+

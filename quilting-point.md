@@ -19,3 +19,4 @@ Lacan explains the quilting point as the moment when a chain of signifiers provi
 ## Source
 
 The term was introduced in Lacan&rsquo;s [[Seminar III]].
+

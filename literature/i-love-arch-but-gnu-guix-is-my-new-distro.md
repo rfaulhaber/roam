@@ -16,3 +16,4 @@ Proported benefits of Guix:
 
 -   Development environments
 -   Reproducible
+

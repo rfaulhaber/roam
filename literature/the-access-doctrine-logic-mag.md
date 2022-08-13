@@ -14,3 +14,4 @@ One cannot find jobs without access to the internet, and access implies a certai
 The narrative of the [[skills gap]] shifts responsibility for job training away from businesses and onto individuals. There is no real evidence of the existence of the skills gap, however.
 
 Controlling access to the internet is therefore a means of control over people.
+

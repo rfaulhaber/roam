@@ -21,3 +21,4 @@ Notes on the three part [[Fight Like An Animal]] series on [[Ethnogenesis]].
 -   https://www.againsttheinternet.com/post/36-ethnogenesis-pt-3-sacrificial-child-gods-and-social-complexity
 -   https://www.againsttheinternet.com/post/35-ethnogenesis-pt-2-evolutionary-anarchism
 -   https://www.againsttheinternet.com/post/34-ethnogenesis-pt-1-hill-tribes-are-like-street-kids
+

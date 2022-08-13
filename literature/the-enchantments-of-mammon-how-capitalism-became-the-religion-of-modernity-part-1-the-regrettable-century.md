@@ -35,3 +35,4 @@ The book they are discussing can be found [here](https://www.hup.harvard.edu/cat
 -   [[Marx]] says the antidote to religion is [[revolution]]. The essence of Christianity (i.e. communistic living) is the essence of humanity
     -   Religion is a necessary medicine for a world of pain, [[&ldquo;opiate of the masses&rdquo;]]
 -   Marxists should be against mechanized reason, not reason itself
+

@@ -7,3 +7,4 @@ Some see Marx&rsquo;s dialectics as the key to understanding not only Marx but t
 Some might say that [[dialectics]] is the first grasp at something like [[systems thinking]]. [[Engels]] says in [[Anti-Dühring]] that there is a need for a new dialectical science, and this could have been the first grasp at something like systems theory, and that a science of systems would surpass the need for an understanding of dialectics.
 
 Often, Marx&rsquo;s &ldquo;dialectics&rdquo; usually describe a mutual interdependence.
+

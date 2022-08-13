@@ -27,3 +27,4 @@ Further, they demanded:
 3.  Legal equality of agricultural laborers with industrial workers
 4.  Safeguarding freedom of association
 5.  Takeover of the Reich by a system of worker&rsquo;s administration
+

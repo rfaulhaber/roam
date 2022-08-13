@@ -32,3 +32,4 @@ tags
 -   [[Class struggle]] can be seen as a sort of social [[natural selection]]
 -   [[The Long Twentieth Century]] talks about the metabolism of society, much like this work does
 -   [[Metabolic rift]] describes the distance between man and nature. Society is a metabolism and outgrowth of nature, yet there&rsquo;s a distinction between them
+

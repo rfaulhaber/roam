@@ -24,3 +24,4 @@ Lacan gets grouped in with a lot of political stuff
 Psychoanalysis was subsumed into the medical industry, whereas in Latin America its tied up in politics
 
 Lacan was more interested in letting people do what they want to do (unleash and understand their own desire as opposed to being beholden to their own drive)
+

@@ -26,3 +26,4 @@ For example:
 \end{example}
 
 Therefore we know `3 * 7` is a valid expression.
+

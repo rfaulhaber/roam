@@ -39,3 +39,4 @@ tags
 ## Related notes
 
 -   [[Problems of digital socialist planning]]
+

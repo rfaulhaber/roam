@@ -71,3 +71,4 @@ This was a very winding conversation with a lot of rabbit holes. Some important 
 -   The market is not necessarily a system of equivalent exchange
 -   If capitalism is nothing else, it&rsquo;s the system under which money is valorized
 -   MMT may be more on track than Marxism but implementing MMT in a liberal democracy would be a waste of time
+

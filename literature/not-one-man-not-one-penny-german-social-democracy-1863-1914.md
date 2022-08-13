@@ -1,7 +1,7 @@
 # "Not One Man! Not One Penny!" German Social Democracy, 1863-1914
 
 source
-: not_one_man_not_one_penny
+: cite:not<sub>one</sub><sub>man</sub><sub>not</sub><sub>one</sub><sub>penny</sub>
 
 tags
 : [[Germany]] [[German Social Democratic Party]] [[Karl Kautsky]] [[history of socialism]]
@@ -418,7 +418,7 @@ tags
     
     > For the most part the party was eclectic and opportunistic in its approach to practical activities, with limits imposed only by a very vague, rarely articulated set of assumptions.These assumptions&#x2014;including hostility to the state, concern for the welfare of industrial workers, rejection of capitalism, and a commitment to political democracy (i.e. universal sufferage with a responsible Representative government)&#x2014;were not sufficiently precise or consistent to justify the label theory.
     > 
-    > [p. 189](not_one_man_not_one_penny)
+    > [p. 189](cite:not_one_man_not_one_penny)
 
 <!--listend-->
 
@@ -536,3 +536,4 @@ The SPD probably had one of the most effective propaganda wings of any organizat
 The fact that the SPD had a spurious relationship to formal ideology also caused them to have inconsistent political action sometimes.
 
 [[Lenin]]&rsquo;s conception of the [[vanguard party]] was a response to the SPD&rsquo;s strategy of a &ldquo;party in waiting.&rdquo;
+

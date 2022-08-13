@@ -1,7 +1,7 @@
 # Battle Cry of Freedom
 
 source
-: mcpherson_2003
+: cite:mcpherson<sub>2003</sub>
 
 
 ## General notes

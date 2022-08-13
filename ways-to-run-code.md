@@ -21,3 +21,4 @@ Ahead-of-time compilation converts the source code into a lower-level language b
 ## Interpretation
 
 Source code can be executed directly. This is done by interpretation.
+

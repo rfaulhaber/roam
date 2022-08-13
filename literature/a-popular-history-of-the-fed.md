@@ -20,3 +20,4 @@ source
 ## Summary
 
 The Federal Reserve was born out of a despite time in American history where state power was needed to reign in the worst excesses of finance. For example, poor rural farmers, where speculation is an important part of being a farmer, benefitted from the decision to create a central bank. This populist origin may explain some of the Fed&rsquo;s behavior.
+

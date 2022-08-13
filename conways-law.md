@@ -7,3 +7,4 @@
 Conway&rsquo;s law is an adage that states that an organization&rsquo;s [[software]] architecture will mirror the organization that produces it.
 
 More generally, it states that organizations design [[systems]] to mirror an organization&rsquo;s own communication structure.
+

@@ -4,7 +4,7 @@ tags
 : [[Marx]] [[ecology]]
 
 source
-: marx_ecology
+: cite:marx<sub>ecology</sub>
 
 type
 : literature
@@ -102,3 +102,4 @@ foo
 
 
 #### Marx and Epicurus
+

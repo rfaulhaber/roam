@@ -25,3 +25,4 @@ This would pass the control flow to `k`. The idea, then, is that your whole prog
 The interpreter could thus use continuations for all calls.
 
 [[Scheme]] in particular is implemented in such a way that you can use the current continuation directly by calling `call/cc`, or &ldquo;call with current continuation.&rdquo;
+

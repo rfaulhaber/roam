@@ -18,3 +18,17 @@ Primitives include but are not limited to:
 -   `quote`
 
 The rest of a Lisp is simply library code, which can be expressed using all of the above.
+
+
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> In fact, it could be expressed like this:
+
+```emacs-lisp
+; a copy of emacs's own =when= definition
+(defmacro my-when (condition &rest body)
+  (list 'if condition (cons 'progn body)))
+
+(macroexpand '(my-when t
+         (message "hello world I did it")))
+```

@@ -90,3 +90,4 @@ Finally, metadata describes the type information of a resource.
 ```
 
 For any attribute specified on the resource, the meta must describe it.
+

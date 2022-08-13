@@ -23,3 +23,4 @@ With the rise of mass agriculture, agricultural science came to believe that org
 > Soil organic matter is so critical to soil health because it improves essentially all soil biological, chemical, and physical properties.
 
 Increasing soil health broadly could help stop global climate change, but it would require a massive, global, coordinated effort.
+

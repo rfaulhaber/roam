@@ -23,3 +23,4 @@ Caribbean countries have outperformed the Untied States in terms of handling the
 Caribbean nations are peripheral and made dependent on capitalist nations
 
 The United States has made no effort to manage the virus in prisons, which are majority black
+

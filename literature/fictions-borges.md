@@ -4,7 +4,7 @@ tags
 : [[Jorge Borges]] [[Latin American literature]]
 
 source
-: borges_hurley_1998
+: cite:borges<sub>hurley</sub><sub>1998</sub>
 
 Fictions (_Ficciones_ in Spanish) is a collection of short stories written by [[Jorge Borges]].
 
@@ -153,3 +153,4 @@ A short story by Borges about a detective.
 -   It postulates that Judas &ldquo;sought hell because joy in the Lord was enough for him&rdquo;
 -   God could just as well have chosen anyone to weave such a divine plot with, and he chose Judas of all people
 -   The author of these works, our &ldquo;main character&rdquo;, died a madman, like many great heretics
+

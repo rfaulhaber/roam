@@ -31,3 +31,4 @@ The contradiction is unsolvable.
 The 20th century is about a leftist anti-Hegelianism, such as [[Foucault]], [[Adorno]], [[Deleuze]], etc.
 
 > There&rsquo;s no such thing as an analysis that just says how things are, by even doing the analysis you&rsquo;re implying that something can be different. &#x2014; Todd
+

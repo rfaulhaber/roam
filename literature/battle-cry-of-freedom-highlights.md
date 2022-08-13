@@ -25,7 +25,7 @@ Ryan Faulhaber, [12.10.21 14:21] The Illustrated Battle Cry of Freedom: The Civi
 
 ▪️ Seward would soon emerge as one of Taylor&rsquo;s main advisers. &ldquo;Freedom and slavery are two antagonistic elements of society,&rdquo; he told a Cleveland audience. &ldquo;Slavery can be limited to its present bounds&rdquo;; eventually &ldquo;it can and must be abolished.&rdquo;
 
-▪️ Nevertheless, those stresses had wrenched the system almost to the breaking point. Free Soilers hoping to realign American politics into a struggle between freedom and slavery professed satisfaction with the election. &ldquo;The public mind has been stirred on the subject of slavery to depths never reached before,&rdquo; wrote Sumner. &ldquo;The late election,&rdquo; agreed one of his confreres, &ldquo;is only the Bunker Hill of the moral & political
+▪️ Nevertheless, those stresses had wrenched the system almost to the breaking point. Free Soilers hoping to realign American politics into a struggle between freedom and slavery professed satisfaction with the election. &ldquo;The public mind has been stirred on the subject of slavery to depths never reached before,&rdquo; wrote Sumner. &ldquo;The late election,&rdquo; agreed one of his confreres, &ldquo;is only the Bunker Hill of the moral &amp; political
 
 ▪️ revolution which can terminate only in success to the side of freedom.&ldquo;
 
@@ -92,3 +92,4 @@ Ryan Faulhaber, [12.10.21 14:21] no moral right in connection with one man&rsquo
 ▪️ Brown had made the word Treason &ldquo;holy in the American language&rdquo;
 
 ▪️ While abating none of the antislavery convictions expressed in the 1856 platform, it softened the language slightly and denounced John Brown&rsquo;s raid as &ldquo;the gravest of crimes.&rdquo; Gladly accepting the issues handed to Republicans by the opposition, the platform pledged support for a homestead act, rivers and harbors improvements, and federal aid for construction of a transcontinental railroad.
+

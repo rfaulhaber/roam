@@ -19,3 +19,4 @@ related to
 -   [[Engels]] said that the [[French Third Republic]] was &ldquo;an empire without an empire&rdquo;
 -   Kautsky felt that [[direct democracy]] was of only limited use, and criticized other socialists over it
 -   Probably not useful to think of the [[SPD]] as just a [[labor party]], but as a Marxist party that degenerated
+

@@ -30,3 +30,4 @@ This episode may merit a re-listen.
 -   J Arch Getty, Sheila Fitzpatrick
 -   Intimate Enemies - Wendy Goldman
 -   Anguish, Anger, and Folk Ways in Soviet Russia - Gábor Tamás Rittersporn
+

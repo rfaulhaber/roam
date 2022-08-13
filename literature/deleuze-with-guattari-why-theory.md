@@ -21,3 +21,4 @@ For [[Deleuze]] and [[Guattari]], [[desire]] appears to be tied to the question 
 What&rsquo;s unique about [[fascism]] is that it allows for both transgression and the ability to follow authoritatively.
 
 > Orwell misunderstood that the problem in _1984_ is not Big Brother but Little Brother.
+

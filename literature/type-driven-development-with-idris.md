@@ -226,3 +226,8 @@ Any-size collection, but must be same type.
 
 
 ## 3. Interactive development with Types
+
+
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> The book remarks that a `Nat` can only be subtracted from a larger `Nat`, since `Nat` can never be negative

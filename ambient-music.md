@@ -18,3 +18,4 @@ A type of [[music]] that emphasizes tone over structure or rhythm, created origi
 > Ambient Music must be able to accommodate many levels of listening attention without enforcing one in particular; it must be as ignorable as it is interesting.
 > 
 > BRIAN ENO September 1978
+

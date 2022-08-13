@@ -5,3 +5,8 @@
 It is, in practice, essentially a get rich quick scheme, and those that benefit from it are the already wealthy.
 
 So-called [[proof of work]] mining is &ldquo;an encoding of the bourgeois labor theory of value.&rdquo; It acts as a means of encoding libertarian politics into software.
+
+
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> It has only ever been used as an asset. Banks do not loan out cryptocurrency, thus blocking what would be a major step towards becoming a viable currency.

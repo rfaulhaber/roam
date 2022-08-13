@@ -15,3 +15,4 @@ The rest of the steps discussed in chapter 2.1 are omitted, as they can be summa
 -   To start writing a paper, find a topic on something you&rsquo;ve taken notes on
 -   Interpret your notes to make an argument
 -   Write a rough draft, proofread, and submit
+

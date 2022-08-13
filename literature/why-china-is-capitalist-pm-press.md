@@ -13,3 +13,4 @@ The article notes that [[China]] took a &ldquo;communist road to capitalism.&rdq
 China has an extremely profitable tech sector.
 
 Labor rights in China are dubious at best.
+

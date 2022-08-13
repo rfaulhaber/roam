@@ -11,5 +11,6 @@ source
 > 4.  &ldquo;The theory and technique of systems which transform messages&rdquo; (FRANK.1969, p.30).
 > 5.  &ldquo;(the) mathematical and constructive treatment of general structural relations, functions and systems&rdquo; (von CUBE, 1967, p.11-16).
 > 6.  &ldquo;The theory of interconnectedness of possible dynamic self-regulated systems with their subsystems&rdquo; (KLAUS, 1965).
-> 7.  &ldquo;(the general theory of the transformation of information, and & the theory and principles of building various transformers of information&rdquo; (1966), GLUSHKOV
+> 7.  &ldquo;(the general theory of the transformation of information, and &amp; the theory and principles of building various transformers of information&rdquo; (1966), GLUSHKOV
 > 8.  &ldquo;Discipline which studies regulations and communication in the living beings and the man-built machines&rdquo; (J de ROSNAY, 1975, p.93)
+

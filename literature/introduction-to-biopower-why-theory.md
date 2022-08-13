@@ -15,3 +15,4 @@ source
 -   For [[Foucault]], [[power]] ultimately comes from the [[law]]
     -   [[Marx]] and Marxists believe that power has a material basis, that the law is just downstream of something else
 -   [[Deleuze]] and [[Foucault]] could be seen as &ldquo;[[vitalist]]&rdquo; philosophers
+

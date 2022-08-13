@@ -13,3 +13,4 @@ source
 -   Systems are either query-based or alert-based
 -   Automated license plate readers collect and store information on everyone, not just those under investigation
 -   Palantir&rsquo;s system allows for circumstantial evidence to paint a more comprehensive picture than what&rsquo;s really going on
+

@@ -33,3 +33,4 @@ The [[dialectical]] approach sees things as interconnected, in contrast to the a
 Todd and Ryan believe that [[Lacan]] is a dialectical thinker, because he rejects the [[subject-object divide]]. This is best illustrated in his concept of [[objet a]], or the &ldquo;object cause of desire&rdquo;, because it&rsquo;s something &ldquo;external&rdquo; to the subject but something that&rsquo;s important to the subject, affecting the external world.
 
 The link between [[Lacan]] and [[Hegel]] is the idea that the concept of [[drive]] is one of self-undermining.
+

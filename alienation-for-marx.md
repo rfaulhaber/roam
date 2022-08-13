@@ -30,3 +30,4 @@ Being forced to work, alienated from one&rsquo;s community every day means that 
 ## Alienation in [[Capital]]
 
 Thinkers like [[Althusser]] believe that Marx gave up alienation by the time Capital was written. However it is my opinion that alienation is actually one of the core ideas of _Capital_. Marx mentions [[commodity fetishism]] in the first chapter, which itself is a more specific kind of alienation. Further, everything Marx describes; wage labor, working conditions, etc. all describe a kind of alienation.
+

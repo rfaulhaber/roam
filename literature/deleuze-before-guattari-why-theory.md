@@ -15,3 +15,8 @@ The hosts believe that the primary driving force of [[psychoanalysis]] is [[driv
 [[Deleuze]] wants a &ldquo;beyond without contradiction.&rdquo;
 
 [[Spinoza]] believed that God&rsquo;s prohibitions were prohibitions of things that are bad for us, so there&rsquo;s no evil, just bad.
+
+
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> A potential problem with this line of thinking is the actual, real world problems that _free thought_ in this case has. One example would be with [[COVID-19]] denialism and vaccine skepticism.

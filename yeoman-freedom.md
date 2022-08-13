@@ -9,3 +9,4 @@ Yeoman freedom was the idea that individuals within the United States were like 
 The essence of freedom for Jefferson was independence.
 
 Yeomanism died out even before the [[United States Civil War]], but the concept is still with us even today. The proliferation of [[capitalism]] put an end to such a way of life.
+

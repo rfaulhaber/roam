@@ -7,3 +7,4 @@ A shebang is a line added to scripts on [[Unix-like]] machines. It tells the sys
 ```bash
 #!/bin/bash
 ```
+

@@ -11,14 +11,12 @@
     -   A programming language
     -   An operating system (NixOS, a Linux distro)
 -   Nix can be used like `brew` or `apt`
-    
     ```bash
       # this will install curl
       nix-env -iA curl
     ```
 -   Nix&rsquo;s selling point is that it&rsquo;s capable of reproducible builds
 -   One thing that&rsquo;s unique about Nix (the package manager) is that you can create ad-hoc development environments
-    
     ```bash
       # this spawns a new shell with curl installed
       # once this shell is exited, it will no longer be available
@@ -39,3 +37,4 @@
 -   [A tour of Nix](https://nixcloud.io/tour/)
 -   [A Gentle Introduction to the Nix Family](https://ebzzry.io/en/nix/)
 -   [NixOS - Nix Pills](https://nixos.org/nixos/nix-pills/)
+

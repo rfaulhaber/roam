@@ -23,3 +23,4 @@ Decentralized systems&#x2026;
 
 -   tend to be redundant in form
 -   have a hard time accomplishing tasks
+

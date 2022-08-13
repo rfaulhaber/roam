@@ -15,3 +15,4 @@ tags
     > Correct. Discrimination is continuing on the basis of race, gender, and other categories. This kind of discrimination—against groups whose members self-identify and therefore relate to each other and mobilize politically on the basis of that shared identity—is very important. But what I’m trying to get us to pay attention to is the other groups that we have been assigned membership, and through which we experience discrimination, but which we know nothing about.
 -   when discrimination becomes justified in terms of assessment risk
     -   This is simply a proxy for regular discrimination!
+

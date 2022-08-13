@@ -4,12 +4,12 @@ tags
 : [[Marx]] [[Capital Vol. 2]]
 
 source
-: harvey_companion_2018
+: cite:harvey<sub>companion</sub><sub>2018</sub>
 
 
 ## 1. The Circuits of Capital (1-3)     :ATTACH:
 
-[Harvey&rsquo;s chart for the circuits of capital](Screenshot from 2020-12-21 22-12-00.png)
+[[Harvey&rsquo;s chart for the circuits of capital]]
 
 -   Money only becomes capital depending on its function in the capital circuit
 -   Laborers live in the C-M-C relationship (or more specifically, L-M-C)
@@ -197,3 +197,4 @@ Chapters 4-6 in vol. 2 are mostly about the sphere of circulation, an often negl
 
 
 ## 12. Reflections
+

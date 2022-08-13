@@ -153,3 +153,4 @@ EIEIO also allows for multiple [[inheritence]], for example:
 ```
 
 EIEIO also allows for defining structs for when you only care about keeping track of organized data. This is done with `cl-defstruct`.
+

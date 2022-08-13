@@ -14,3 +14,4 @@ Arguably, the [[soviets]] were one such example: organizations that worked with 
 ## Unions as organizations within capitalism
 
 Likewise, there are those who say that unions will only exist in capitalism, and that at best all unions can do is improve working conditions. There may be some truth to this, but I believe that it&rsquo;s too dismissive of the role of unions.
+

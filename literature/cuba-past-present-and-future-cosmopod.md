@@ -52,3 +52,4 @@ An important part of Cuban government is government public consultation, where t
 
 -   [A Comparative Analysis of US and Cuban Democracy | Analysis | teleSUR English](https://www.telesurenglish.net/analysis/A-Comparative-Analysis-of-US-and-Cuban-Democracy-20180303-0005.html)
 -   [How Democracy Works in Cuba - YouTube](https://www.youtube.com/watch?v=2aMsi-A56ds)
+

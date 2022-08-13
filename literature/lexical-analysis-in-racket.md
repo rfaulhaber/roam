@@ -24,3 +24,9 @@ tags
 This will create a lexer that matches input character by character until, finally, returning `'eof`.
 
 The rest of this article contains a number of useful examples.
+
+
+## Refs
+
+-   http://matt.might.net/articles/lexers-in-racket/
+

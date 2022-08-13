@@ -85,3 +85,4 @@ Seems to already be a minor brand. I like the use of &ldquo;logic&rdquo; though.
 ### &ldquo;udana&rdquo; or some variation
 
 Take &ldquo;Xanadu&rdquo;, reverse it, and nix the &ldquo;X&rdquo;
+

@@ -10,3 +10,4 @@ The contents of this page will mostly have to do with the latter. See the &ldquo
 The holy trinity of OOP languages are [[C++]], [[Java]], and [[C#]].
 
 OOP languages proper are characterized by framing every aspect of the program as a [[class]]. In [[Java]], there is a special class which must have a static method called main. Java and C#, until recently, did not allow for [[free function]]s.
+

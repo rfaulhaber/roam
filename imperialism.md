@@ -15,3 +15,4 @@ Lenin&rsquo;s imperialism had to do with monopoly and finance capital. Finance c
 ## Kautsky&rsquo;s imperialism
 
 Kautsky&rsquo;s conception of imperialism is based on &ldquo;ultra-imperialism&rdquo;, that is, imperialist countries work together to form a cartel to exploit colonies and divide the resources extracted amongst themselves.
+

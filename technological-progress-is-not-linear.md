@@ -12,3 +12,4 @@ There is a mistaken belief that technological progress is linear. That is to say
 3.  Technological development in capitalism is therefore directed for specific ends and _ad hoc_
 
 For these reasons it&rsquo;s ridiculous to believe that technological progress will continue until all [[social problems have been solved by technology]].
+

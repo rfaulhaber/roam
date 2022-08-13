@@ -29,3 +29,4 @@ or, as an [[s-expression]]:
        (calc-time-from-now (apply 'calc-time now)))
   (message "float-time\t%s\ncalc-time\t%s" float-time-from-now calc-time-from-now))
 ```
+

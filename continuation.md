@@ -7,3 +7,4 @@ Continuations are used in [[Scheme]] in particular, as part of their [[compiler]
 In Scheme, continuations are first class, and can be used using the function `call/cc`.
 
 Continuations make the use of a call-stack redundant.
+

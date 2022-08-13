@@ -9,3 +9,4 @@ Breaking up imperial entities into nations makes sense to a certain extent thoug
 However, when the Soviet Union reified nationality, this ended up being simply a long road to [[fascism]], as recent history has borne out.
 
 Is the way out a creation of a new identity? Or simply the elimination of race and nationality?
+

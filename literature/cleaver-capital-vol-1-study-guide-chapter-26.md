@@ -33,3 +33,4 @@ tags
     -   During the 90s the Zapatista army was formed after [[Mexico]] signed the [[NAFTA]] agreement.
 -   Alternatives to capitalism are born out of struggle against it.
 -   Capitalism has no creativity of its own; it simply absorbs other ways of life and incorporates them into it.
+

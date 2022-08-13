@@ -17,3 +17,4 @@ Capitalism is able to make money out of money. It does this through a process of
 ## Labor market
 
 Capitalism liberated peasants from the country side only to make them [[free laborers]], who have nothing to sell but their own [[labor-power]], or their capacity to work. (see also: [[workers only have their labor-power to sell]]) This is in contrast to previous modes of production, where people were either [[peasants]] or [[slaves]] (although both were preserved under capitalism, each has largely been eliminated at least legally).
+

@@ -7,3 +7,4 @@ The Democrats were initially about the [[republicanism]] politics of [[yeoman]]s
 As yeomans came to disappear from the political scene, and as slavery was abolished, the Democrats came to represent a [[working class]] politics with the presidency of [[FDR]].
 
 Today, the Democrats represent coastal elite interests: the interests of [[Silicon Valley]] and [[finance capital]], and only ostensibly support progressive politics in name.
+

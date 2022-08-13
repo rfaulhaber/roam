@@ -12,3 +12,11 @@ Notes for all three parts of this series will be listed here.
 -   Political parties were not codified into what we think of now until the 20th century. Prior to that they were mostly just a loose association of people
 -   [[Propaganda of the deed]] is not [[prefigurative politics]], it is a transitional program
 -   
+
+
+## Refs
+
+-   http://generalintellectunit.net/e/081-anarchist-cybernetics-part-3
+-   http://generalintellectunit.net/e/080-anarchist-cybernetics-part-2
+-   http://generalintellectunit.net/e/079-anarchist-cybernetics-part-1
+

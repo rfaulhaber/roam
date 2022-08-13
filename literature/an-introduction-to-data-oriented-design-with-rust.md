@@ -36,3 +36,4 @@ pub struct DOPlayers {
 ```
 
 This would increase performance dramatically because we&rsquo;re better using the CPU cache. The article has some good statistics on this.
+

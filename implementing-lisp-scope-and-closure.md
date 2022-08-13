@@ -25,8 +25,6 @@ How do we implement this without `a` conflicting with something at a higher leve
 ### Possible solutions
 
 
-<a id="org5b4272d"></a>
-
 #### Recursive `env`
 
 MAL and Risp define an env as such, essentially:
@@ -77,3 +75,8 @@ At the end of each iteration of the loop, we need to clear any values that shoul
 ```
 
 We would need `a` and `b` to not live beyond the `lambda` and have the `lambda` not persist after its evaluation.
+
+
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Ideally Dial will compile to machine code as well, where this will hopefully be less of an issue.

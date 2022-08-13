@@ -18,3 +18,4 @@ source
 -   Capra believes that consciousness is a property of life
 -   An insight of [[cybernetics]] was noticing that life is made up of networks
 -   Systems can correct themselves through the process of [[feedback]]
+

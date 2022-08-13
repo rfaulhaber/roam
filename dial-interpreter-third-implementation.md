@@ -88,3 +88,4 @@ The interpreter should be thought of as a function that, given a program, an env
 -   Difficult to implement in Rust
 -   Possibly memory intensive if all done on the heap
 -   Not especially useful / can live without it
+

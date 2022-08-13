@@ -21,3 +21,4 @@ tags
 -   If a dog wanted to reach something across a barrier, in the real world it would use its accumulated experience, exploitation of the environment, and experimentation to find a solution.
     -   The informatics approach to solving this problem would be to model the world
     -   the cybernetic approach would be to create adaptive systems that are capable of adapting to such a thing
+

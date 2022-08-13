@@ -11,3 +11,4 @@ This is the billion dollar question! What makes good software? This could be ans
 ## 2. What is good consumer software?
 
 This is a big question. What do consumers want? Is [[Emacs]] good consumer software? Or do general consumers prefer things like [[Windows]]?
+

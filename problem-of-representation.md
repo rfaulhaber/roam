@@ -13,3 +13,4 @@ These issues bring up some serious questions:
 
 -   Should politics simply be majoritarian or should minority interests be just as represented?
 -   If politics shouldn&rsquo;t just be majoritarian, how do you effectively handle representation of minorities with as much weight as the majority?
+

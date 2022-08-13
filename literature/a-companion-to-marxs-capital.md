@@ -4,7 +4,7 @@ tags
 : [[capitalism]] [[marxism]] [[harvey]] [[Marx]]
 
 source
-: harvey_companion_2018
+: cite:harvey<sub>companion</sub><sub>2018</sub>
 
 I&rsquo;ve tried to omit notes on Harvey summarizing Marx. That should be left to the [[Capital Vol. 1]] notes.
 
@@ -51,3 +51,4 @@ I&rsquo;ve tried to omit notes on Harvey summarizing Marx. That should be left t
 
 
 ## Reflections and Prognoses
+

@@ -7,3 +7,4 @@ If we go strictly by [[Marx&rsquo;s view]], a world without [[alienation]] might
 -   can use their creative powers as they see fit
 -   _feels_ that they belong to a community, and that they owe it to their community to work
     -   think: in the same way pre-industrial societies did
+

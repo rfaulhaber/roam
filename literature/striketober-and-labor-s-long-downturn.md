@@ -5,3 +5,9 @@ source
 
 
 ## Notes
+
+
+## Refs
+
+-   https://brooklynrail.org/2021/12/field-notes/Striketober-and-Labors-Long-Downturn
+

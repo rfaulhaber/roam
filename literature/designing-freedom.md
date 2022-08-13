@@ -73,3 +73,4 @@ Stafford believes that computers, telecommunications, and cybernetics are on the
 ### Part 3
 
 Stafford Beer wants to create a &ldquo;liberty machine&rdquo;, a [[viable system]] that outputs liberty.
+

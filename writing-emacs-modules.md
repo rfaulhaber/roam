@@ -7,3 +7,4 @@ In order to write a module in [[Emacs]] you must simply implement the `emacs_mod
 
 -   [Module Functions (Emacs manual)](https://www.gnu.org/software/emacs/manual/html_node/elisp/Module-Functions.html)
 -   [My own article on the subject](https://ryanfaulhaber.com/posts/first-emacs-module-rust/)
+

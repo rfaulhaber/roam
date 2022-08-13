@@ -14,3 +14,4 @@ Some questions that are critical to answer:
     -   Should avoid endless meetings
     -   Should be about maximizing free time
 -   Question of markets
+

@@ -7,3 +7,4 @@ When discussing nearly anything as it pertains to accomplishing [[communism]], a
     -   This is especially true as it pertains to [[agriculture]]: transitioning to a communal agricultural program overnight would lead to mass death
 
 The goal of the [[transition period]] therefore must be to balance these things: we must actually take steps to transition to communism while preventing mass death and maintaining approval of the masses
+

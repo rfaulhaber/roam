@@ -4,7 +4,7 @@ tags
 : [[Marx]]
 
 source
-: a_world_to_win
+: cite:a<sub>world</sub><sub>to</sub><sub>win</sub>
 
 _A World To Win_ is a lengthy and comprehensive biography of the philosopher Karl Marx. It not only provides biographical details but also explores the genealogy of Marx&rsquo;s own ideas.
 
@@ -125,3 +125,4 @@ _A World To Win_ is a lengthy and comprehensive biography of the philosopher Kar
 -   Throughout the manifesto Marx is using a concept of critique that would have been familiar to many of the German philosophers of the time
     
     > The word critical has a central place in Marx’s vocabulary, as it had during his entire Young Hegelian period, and in other respects in the entire tradition from Kant. Being critical did not mean simply being negative. Someone developing criticism in Marx’s meaning illuminates an object or a phenomenon so that its anatomy and method of functioning are exposed. Critical analysis thereby opens the path for a programme of action.
+

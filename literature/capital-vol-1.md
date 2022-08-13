@@ -4,7 +4,7 @@ tags
 : [[capitalism]] [[Marx]] [[political economy]]
 
 source
-: marx_capital
+: cite:marx<sub>capital</sub>
 
 My notes on Capital Vol. 1, indexed. These were originally not written as Roam files so forgive the messiness.
 
@@ -1583,3 +1583,4 @@ Industrial Reserve Army
 -   (p. 936) Labor in the American colonies is pretty scarce
 -   (p. 936) The state of labor in the colonies is such that many wage laborers who come from Europe can actually gain wealth and become landholders themselves, which perpetuates this labor shortage.
 -   (p. 938) The solution to this, according to Wakefield, is to set an artificial price on the land, thereby forcing the laborer to work before they can become a landed proprietor
+

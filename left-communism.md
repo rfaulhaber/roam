@@ -15,3 +15,4 @@ The main differences between left communism and, say, [[Orthodox Marxism]], [[Ma
 Left communists are generally &ldquo;Leninist&rdquo; but not Marxist-Leninist.
 
 The term &ldquo;left communism&rdquo; came from [[Lenin]]&rsquo;s pamphlet, &ldquo;[[Left-Wing Communism: An Infintile Disorder]]&rdquo;. Similarly, sometimes left communists are referred to as &ldquo;[[ultra-leftists]]&rdquo;.
+

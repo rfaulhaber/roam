@@ -9,7 +9,6 @@ tags
 Literature notes should be brief, atomic, and not contain quotes
 
 The video also illustrates that literature notes should contain page numbers, like so:
-    
     ```org
     ​    - p. 19
     ​      - some note that occurs on page 19
@@ -27,3 +26,4 @@ tags and keywords should be framed as &ldquo;how do I want to find / use this in
 permanent notes should be fully formed
 
 permanent notes should also contain keywords, references, etc.
+

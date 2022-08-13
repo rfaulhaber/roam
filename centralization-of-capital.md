@@ -1,3 +1,4 @@
 # centralization of capital
 
 
+

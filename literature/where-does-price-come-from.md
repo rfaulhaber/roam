@@ -6,7 +6,7 @@ source
 
 ## Notes
 
-The heterodox [[economics]] understanding of [[price]] is that prices are set in response to [[supply and demand]], e.g. lower supply or high demand -> higher price, high supply or low demand -> lower price.
+The heterodox [[economics]] understanding of [[price]] is that prices are set in response to [[supply and demand]], e.g. lower supply or high demand -&gt; higher price, high supply or low demand -&gt; lower price.
 
 Ice cream and bars do not change their prices during winter and weekdays respectively.
 
@@ -23,3 +23,4 @@ fixprice market
 : prices are rigidly administered
 
 According to surveys done in the piece, nearly half of all businesses in the UK have administered prices.
+

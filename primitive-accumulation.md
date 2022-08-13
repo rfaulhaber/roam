@@ -20,4 +20,5 @@ tags
 : [[marxism]] [[capitalism]] [[historical materialism]]
 
 source
-: marx_capital [[Capital Vol. 1]]
+: cite:marx<sub>capital</sub> [[Capital Vol. 1]]
+

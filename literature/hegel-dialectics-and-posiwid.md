@@ -19,3 +19,4 @@ source
 -   [[the purpose of a system is what it does]]
     
     > A good observer will impute the purpose of a system from its actions… There is, after all, no point in claiming that the purpose of a system is to do what it consistently fails to do. &#x2014; Stafford Beer, as quoted by the author
+

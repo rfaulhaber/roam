@@ -11,3 +11,4 @@ The author disagrees with the assertion that [[Engels]] is responsible for reduc
 The author asserts that due to the contents of [[Dialectics of Nature]] make [[Engels]] the first [[ecological]] thinker.
 
 In the [[Soviet Union]], [[Engels]] was used as a means of maintaining Soviet orthodoxy. Quantum mechanics research was very likely stifled in the USRR for this reason.
+

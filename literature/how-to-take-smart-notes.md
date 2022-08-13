@@ -3,7 +3,7 @@
 tags
 : [[zettelkasten]]
 
-source: How_To_Take_Smart_Notes
+source: cite:How<sub>To</sub><sub>Take</sub><sub>Smart</sub><sub>Notes</sub>
 
 This book is the definitive guide for the Zettelkasten method. This note is an index note.
 
@@ -20,3 +20,4 @@ This book is the definitive guide for the Zettelkasten method. This note is an i
 
 -   Going forward I think all of my notes will require all of my notes to have an &ldquo;ideas&rdquo; section with references to text above where applicable
     -   Could I do this using footnotes?
+

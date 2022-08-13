@@ -44,3 +44,4 @@ To paraphrase a quote from Freud: &ldquo;if you give ground on the words to desc
 [[Carl Jung]] was an avowed [[Nazi]] and a rapist but is more widely accepted than Freud.
 
 Psychoanalysis often has to go on the defensive while other fields do not.
+

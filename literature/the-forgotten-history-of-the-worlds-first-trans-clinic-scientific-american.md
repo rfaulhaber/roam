@@ -17,3 +17,9 @@ The institute provided:
 > Love is as varied as people are. &#x2014; [[Magnus Hirschfeld]]
 
 [The famous image of the Nazi book burnings](https://en.wikipedia.org/wiki/Nazi_book_burnings#/media/File:1933-may-10-berlin-book-burning.JPG) depicts [[Nazis]] burning the books of the [[Institut für Sexualwissenschaft]].
+
+
+## Refs
+
+-   https://www.scientificamerican.com/article/the-forgotten-history-of-the-worlds-first-trans-clinic/
+

@@ -8,3 +8,4 @@ One might argue that [[class consciousness is a perspective error]].
 ## Criticism
 
 Basically, it&rsquo;s a perspective error that says &ldquo;being a Marxist, I know what true consciousness is.&rdquo;
+

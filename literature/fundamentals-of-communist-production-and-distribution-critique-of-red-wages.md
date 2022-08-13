@@ -43,3 +43,4 @@
 > Work is the measure of consumption!
 > 
 > It is the only condition for putting the management and administration of social production in the hands of the workers themselves.
+

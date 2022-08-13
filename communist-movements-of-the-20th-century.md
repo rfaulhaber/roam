@@ -22,3 +22,4 @@ Many of these states can be broadly described as [[Marxist-Leninist]], following
 
 
 ## Characteristics of people&rsquo;s republics
+

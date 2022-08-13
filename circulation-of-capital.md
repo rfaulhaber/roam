@@ -11,3 +11,4 @@ The circulation of capital describes the services that are ancillary to the prod
 -   Buying and selling
 -   Transportation costs
 -   Storage
+

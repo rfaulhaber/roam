@@ -33,3 +33,4 @@ Emancipation is only emancipatory if everyone is free
 The struggle against racism is also a class struggle, and the class struggle should be a struggle against racism. In the last 50 years or so, these struggles have been co-opted
 
 A party should assume that the masses are capable of learning things for themselves. Our task as the &ldquo;intellectual vanguard&rdquo; is to &ldquo;bring people the good news of communism&rdquo;, but we should not condescend people
+
